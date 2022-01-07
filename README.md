@@ -1,5 +1,15 @@
 # Phase 1 Project Description
 
+# Project Goal:
+
+In this work, we are trying to come up with some (three or more) business plans for Microsoft to consider in order for them to enter film industry. The **goal** of this work is to come up with the best **genre**, **director**, **movie studio** and the **release month** for the movie by working with some available data. We define return ratio (shown by R here) calculated by R = (D + W - B)/B with D, W, B are respectively, domestic gross, worldwide gross, production budgets and we consider highest mean of return ratio as a metric to use to obtain the results. 
+
+
+
+
+
+
+
 Genres to pcik
 
 ![](./genres_to_pick.png)
