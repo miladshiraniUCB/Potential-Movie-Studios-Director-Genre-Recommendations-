@@ -1,5 +1,7 @@
 # Phase 1 Project Description
 
+![](./Image1.png)
+
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
 ![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project-v2-3/master/awesome.gif)
