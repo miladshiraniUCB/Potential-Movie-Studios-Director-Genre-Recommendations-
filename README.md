@@ -1,9 +1,34 @@
 # Phase 1 Project Description
 
-![](./Image1.png)
+Genres to pcik
+
+![](./genres_to_pick.png)
 
 
-First Image to add
+Genres histogram
+
+![](./genres_histogram.png)
+
+
+Directors to pick
+
+![](./directors_to_pick.png)
+
+
+Studios to pick
+
+![](./studios_to_pick.png)
+
+
+Release month to pick
+
+![](./months_to_pick.png)
+
+
+Months histograms
+
+![](./months_histograms.png)
+
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
 
