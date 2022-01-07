@@ -5,37 +5,53 @@
 In this work, we are trying to come up with some (three or more) business plans for Microsoft to consider in order for them to enter film industry. The **goal** of this work is to come up with the best **genre**, **director**, **movie studio** and the **release month** for the movie by working with some available data. We define return ratio (shown by R here) calculated by R = (D + W - B)/B with D, W, B are respectively, domestic gross, worldwide gross, production budgets and we consider highest mean of return ratio as a metric to use to obtain the results. 
 
 
+# Data
+
+The data we use contains information about different movies. These data frames contain information on name of the movies, production budgets, domestic and worldwide grosses, directors, genres, release date, rating etc.
 
 
+# Results
 
+## Selecting a Genre
 
+By performing some analysis we find that genres as shown in the next figure:
 
-Genres to pcik
 
 ![](./genres_to_pick.png)
 
 
-Genres histogram
+The histogram of these genres are shown below:
 
 ![](./genres_histogram.png)
 
 
-Directors to pick
+Since Horror and Mystry genres both almost have equal average return ratio, we will check which one has the higher average rating. Then we pick the one with the higher average rating. After performing some analysis, we pick Mystry as the main genre.
+
+## Selecting a Director
+
+In the selected genre, we try to find a director whose movies have the highest average return ratio. The results are shown below
+
 
 ![](./directors_to_pick.png)
 
 
-Studios to pick
+We see that Travis Cluff's movies have as equal average return ratio as the works of Chris Lofing. Now we check whose work gained the higher average rating. We see that both works have again equal average rating. Now we check the total number of votes to select based on. But, again there are equal number of votes. So we would suggest to work with either directors. 
+
+## Selecting a Studio
+
+By performing analysis we see that WB (NL) has made movies in the selected genre with a higher average return ratio. So collaboration with this studio would be suggested. The result of the analysis is shown below. 
 
 ![](./studios_to_pick.png)
 
+## Selecting a Release Month
 
-Release month to pick
+We would recommend to consider July as the month of the release. The results of the analysis are shown below
+
 
 ![](./months_to_pick.png)
 
 
-Months histograms
+The histogram of the distribution of data is shown below
 
 ![](./months_histogram.png)
 
