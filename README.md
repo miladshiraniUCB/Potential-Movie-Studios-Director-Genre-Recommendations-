@@ -27,7 +27,7 @@ Release month to pick
 
 Months histograms
 
-![](./months_histograms.png)
+![](./months_histogram.png)
 
 
 You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
