@@ -2,13 +2,9 @@
 
 
 
-# Business Problem:
-
-Microsoft is trying to enter the movie industry and they are looking for three suggestions for making a movie.
-
 # Project Goal:
 
-In this work, we are trying to come up with some (three or more) business plans for Microsoft to consider in order for them to enter film industry. The **goal** of this work is to come up with the best **genre**, **director**, **movie studio** and the **release month** for the movie by working with some available data. We define return ratio (shown by R here) calculated by R = (D + W - B)/B with D, W, B are respectively, domestic gross, worldwide gross, production budgets and we consider highest mean of return ratio as a metric to use to obtain the results. 
+In this work, we are trying to come up with some (three or more) business plans to consider to enter film industry. The **goal** of this work is to come up with the best **genre**, **director**, **movie studio** and the **release month** for the movie by working with some available data. We define return ratio (shown by R here) calculated by R = (D + W - B)/B with D, W, B are respectively, domestic gross, worldwide gross, production budgets and we consider highest mean of return ratio as a metric to use to obtain the results. 
 
 
 # Data
@@ -66,22 +62,22 @@ The histogram of the distribution of data is shown below
 
 In this report, we used highest mean of the return ratio as a metric to find the genre. Then we found the name of the director and the studio who have made movies in the chosen genre with the highest mean of the return ratio as well. The results of this report are as follows:
 
-1. **Recommended Genre**.  After analyzing available data, we concluded that `Mystery` has the highest mean of return ratio among all other genres. Therefore, we recommend Microsoft to choose `Mystery` as the genre to make a movie.
+1. **Recommended Genre**.  After analyzing available data, we concluded that `Mystery` has the highest mean of return ratio among all other genres. Therefore, we recommend to choose `Mystery` as the genre to make a movie.
 
-2. **Recommended Director**. After choosing `Mystery` as the genre of the movie, we did analyze the data and we realized that `Chris Lofing` and`Travis Cluff` have made movies as a director with the highest mean of return ratio. Therefore, we recommend Microsoft to choose either `Chris Lofing` or `Travis Cluff`as the director of their movie. 
+2. **Recommended Director**. After choosing `Mystery` as the genre of the movie, we did analyze the data and we realized that `Chris Lofing` and`Travis Cluff` have made movies as a director with the highest mean of return ratio. Therefore, we recommend to choose either `Chris Lofing` or `Travis Cluff`as the director of their movie. 
 
-3. **Recommended Month of Release**. Considering that the `Mystery` as the genre of the movie, we concluded that movies released in `July` have the highest mean of return ratio. Therefore, we would recommend Microsoft to release their movie in `July`.
+3. **Recommended Month of Release**. Considering that the `Mystery` as the genre of the movie, we concluded that movies released in `July` have the highest mean of return ratio. Therefore, we would recommend to release their movie in `July`.
 
-4. **Recommended Studio**. From analyzing movies within `Mystery` genre, we concluded that `Mystery` movies made by studio `WB (NL)` have the highest mean of return ratio. Therefore, we recommend Microsoft to work with `WB (NL)` for making a movie.
+4. **Recommended Studio**. From analyzing movies within `Mystery` genre, we concluded that `Mystery` movies made by studio `WB (NL)` have the highest mean of return ratio. Therefore, we recommend to work with `WB (NL)` for making a movie.
 
 
 # Next Steps
 
-The next steps we would recommend Microsoft to consider for achieving their goals are:
+The next steps we would recommend to consider for achieving their goals are:
 
-1. **Selecting Writers and Actors and Actresses**.  We would recommend to Microsoft to do the same analysis to find the best writers, actors and actresses for their movie.
+1. **Selecting Writers and Actors and Actresses**.  We would recommend to do the same analysis to find the best writers, actors and actresses for their movie.
 
 
-2. **Selecting Production Budget**. We recommend Microsoft to select production budget to consider to make a movie by analyzing available data.
+2. **Selecting Production Budget**. We recommend to select production budget to consider to make a movie by analyzing available data.
 
 
