@@ -1,0 +1,1022 @@
+movie,return_ratio,year,tconst,genres,studio
+Pirates of the Caribbean: On Stranger Tides,2.13377435460302,2011,tt1298650,"Action,Adventure,Fantasy",BV
+Avengers: Age of Ultron,4.63224389292196,2015,tt2395427,"Action,Adventure,Sci-Fi",BV
+Avengers: Infinity War,8.089832273333334,2018,tt4154756,"Action,Adventure,Sci-Fi",BV
+Justice League,1.9498983466666666,2017,tt0974015,"Action,Adventure,Fantasy",WB
+Spectre,2.59898366,2015,tt2379713,"Action,Adventure,Thriller",Sony
+The Dark Knight Rises,4.573011629090909,2012,tt1345836,"Action,Thriller",WB
+Solo: A Star Wars Story,1.206977669090909,2018,tt3778644,"Action,Adventure,Fantasy",BV
+The Lone Ranger,0.2701972,2013,tt1210819,"Action,Adventure,Western",BV
+John Carter,0.29395192363636363,2012,tt0401729,"Action,Adventure,Sci-Fi",BV
+Tangled,2.028073753846154,2010,tt0398286,"Adventure,Animation,Comedy",BV
+Captain America: Civil War,5.192615048,2016,tt3498820,"Action,Adventure,Sci-Fi",BV
+Batman v Superman: Dawn of Justice,3.7914419,2016,tt2975590,"Action,Adventure,Fantasy",WB
+The Hobbit: An Unexpected Journey,4.280028544,2012,tt0903624,"Adventure,Family,Fantasy",WB (NL)
+The Hobbit: The Desolation of Smaug,3.87493484,2013,tt1170358,"Adventure,Fantasy",WB (NL)
+The Fate of the Furious,4.842444128,2017,tt4630562,"Action,Crime,Thriller",Uni.
+Pirates of the Caribbean: Dead Men Tell No Tales,3.1773913608695654,2017,tt1790809,"Action,Adventure,Fantasy",BV
+Man of Steel,3.2624223822222223,2013,tt0770828,"Action,Adventure,Sci-Fi",WB
+The Amazing Spider-Man,3.636004227272727,2012,tt0948470,"Action,Adventure,Sci-Fi",Sony
+Battleship,0.7214141681818181,2012,tt1440129,"Action,Adventure,Sci-Fi",Uni.
+Transformers: The Last Knight,2.378166004608295,2017,tt3371366,"Action,Adventure,Sci-Fi",Par.
+Jurassic World,9.70290925116279,2015,tt0369610,"Action,Adventure,Sci-Fi",Uni.
+Transformers: Age of Extinction,5.426086438095238,2014,tt2109248,"Action,Adventure,Sci-Fi",Par.
+Robin Hood,1.0378388285714286,2010,tt0955308,"Action,Adventure,Drama",Uni.
+Black Panther,9.24158895,2018,tt1825683,"Action,Adventure,Sci-Fi",BV
+Incredibles 2,8.255512275,2018,tt3606756,"Action,Adventure,Animation",BV
+Finding Dory,6.53755377,2016,tt2277860,"Adventure,Animation,Comedy",BV
+Toy Story 3,6.41942201,2010,tt0435761,"Adventure,Animation,Comedy",BV
+Skyfall,6.07443629,2012,tt1074638,"Action,Adventure,Thriller",Sony
+Monsters University,4.06038329,2013,tt1453405,"Adventure,Animation,Comedy",BV
+X-Men: Days of Future Past,3.908921545,2014,tt1877832,"Action,Adventure,Sci-Fi",Fox
+The Amazing Spider-Man 2,3.559251345,2014,tt1872181,"Action,Adventure,Sci-Fi",Sony
+Cars 2,2.75803129,2011,tt1216475,"Adventure,Animation,Comedy",BV
+Fantastic Beasts: The Crimes of Grindelwald,3.058879935,2018,tt4123430,"Adventure,Family,Fantasy",WB
+Green Lantern,0.68068332,2011,tt1133985,"Action,Adventure,Sci-Fi",WB
+Transformers: Dark of the Moon,6.570159415384615,2011,tt1399103,"Action,Adventure,Sci-Fi",P/DW
+Jack the Giant Slayer,0.3480779794871795,2013,tt1351685,"Adventure,Fantasy",WB (NL)
+Star Trek Into Darkness,2.6640012894736844,2013,tt1408101,"Action,Adventure,Sci-Fi",Par.
+World War Z,2.8624966368421054,2013,tt0816711,"Action,Adventure,Horror",Par.
+Pacific Rim,1.6989779578947368,2013,tt1663662,"Action,Adventure,Sci-Fi",WB
+The Good Dinosaur,1.4365768373333334,2015,tt1979388,"Adventure,Animation,Comedy",BV
+Brave,3.280479535135135,2012,tt1217209,"Adventure,Animation,Comedy",BV
+Kong: Skull Island,2.941215518918919,2017,tt3731562,"Action,Adventure,Fantasy",WB
+Star Trek Beyond,1.673786881081081,2016,tt2660888,"Action,Adventure,Sci-Fi",Par.
+Blade Runner 2049,0.8995219837837838,2017,tt1856101,"Drama,Mystery,Sci-Fi",WB
+Thor: Ragnarok,5.455768405555555,2017,tt3501632,"Action,Adventure,Comedy",BV
+Maleficent,4.5552447944444445,2014,tt1587310,"Action,Adventure,Family",BV
+The Legend of Tarzan,1.6419171444444445,2016,tt0918940,"Action,Adventure,Drama",WB
+Hugo,0.41062383888888887,2011,tt0970179,"Adventure,Drama,Family",Par.
+Valerian and the City of a Thousand Planets,0.4198762555555556,2017,tt2239822,"Action,Adventure,Fantasy",STX
+Jupiter Ascending,0.28192758659217876,2015,tt1617661,"Action,Adventure,Sci-Fi",WB
+X-Men: Apocalypse,2.921236151685393,2016,tt3385516,"Action,Adventure,Sci-Fi",Fox
+The Meg,2.7919913314606744,2018,tt4779682,"Action,Horror,Sci-Fi",WB
+Edge of Tomorrow,1.6446489438202248,2014,tt1631867,"Action,Sci-Fi",WB
+Inside Out,5.918272588571429,2015,tt2096673,"Adventure,Animation,Comedy",BV
+Spider-Man: Homecoming,5.9392428,2017,tt2250912,"Action,Adventure,Sci-Fi",Sony
+Suicide Squad,5.120913948571428,2016,tt1386697,"Action,Adventure,Fantasy",WB
+Coco,4.758480662857143,2017,tt2380307,"Adventure,Animation,Comedy",BV
+Cars 3,2.0653856228571428,2017,tt3606752,"Adventure,Animation,Comedy",BV
+King Arthur: Legend of the Sword,0.021745154285714285,2017,tt1972591,"Action,Adventure,Drama",WB
+47 Ronin,0.08616737142857143,2013,tt1335975,"Action,Adventure,Drama",Uni.
+Jurassic World: Fallen Kingdom,9.13819152352941,2018,tt4881806,"Action,Adventure,Sci-Fi",Uni.
+Guardians of the Galaxy,5.494350752941177,2014,tt2015381,"Action,Adventure,Comedy",BV
+Iron Man 2,4.491704235294118,2010,tt1228705,"Action,Adventure,Sci-Fi",Par.
+Captain America: The Winter Soldier,4.7302873352941175,2014,tt1843866,"Action,Adventure,Sci-Fi",BV
+Dawn of the Planet of the Apes,4.4070009117647055,2014,tt2103281,"Action,Adventure,Drama",Fox
+Snow White and the Huntsman,2.271520594117647,2012,tt1735898,"Action,Adventure,Drama",Uni.
+Tomorrowland,0.7650814117647059,2015,tt1964418,"Action,Adventure,Family",BV
+Alice Through the Looking Glass,1.0821793705882352,2016,tt2567026,"Adventure,Family,Fantasy",BV
+Shrek Forever After,5.030190666666667,2010,tt0892791,"Adventure,Animation,Comedy",P/DW
+Doctor Strange,4.509372642424243,2016,tt1211837,"Action,Adventure,Fantasy",BV
+Big Hero 6,4.30094336969697,2014,tt2245084,"Action,Adventure,Animation",BV
+How to Train Your Dragon,3.3178922666666666,2010,tt0892769,"Action,Adventure,Animation",P/DW
+Wreck-It Ralph,3.1571163515151515,2012,tt1772341,"Adventure,Animation,Comedy",BV
+Interstellar,4.178165266666666,2014,tt0816692,"Adventure,Drama,Sci-Fi",Par.
+Independence Day: Resurgence,1.9534164242424243,2016,tt1628841,"Action,Adventure,Sci-Fi",Fox
+Aquaman,8.26222779375,2018,tt1477834,"Action,Adventure,Fantasy",WB
+Inception,6.05063023125,2010,tt1375666,"Action,Adventure,Sci-Fi",WB
+The Hunger Games: Mockingjay - Part 2,4.81694180625,2015,tt1951266,"Action,Adventure,Sci-Fi",LGF
+The Sorcerer's Apprentice,0.75710819375,2010,tt0963966,"Action,Adventure,Family",BV
+Warcraft,1.9546746,2016,tt0803096,"Action,Adventure,Fantasy",Uni.
+Deepwater Horizon,0.17972660897435896,2016,tt1860357,"Action,Drama,History",LG/S
+The Chronicles of Narnia: The Voyage of the Dawn Treader,2.3714445161290323,2010,tt0980970,"Adventure,Family,Fantasy",Fox
+War for the Planet of the Apes,3.1873186118421053,2017,tt3450958,"Action,Adventure,Drama",Fox
+Wonder Woman,7.22464524,2017,tt0451279,"Action,Adventure,Fantasy",WB
+Frozen,10.15471946,2013,tt2294629,"Adventure,Animation,Comedy",BV
+Zootopia,8.071319093333333,2016,tt2948356,"Adventure,Animation,Comedy",BV
+Moana,4.90849606,2016,tt3521164,"Adventure,Animation,Comedy",BV
+Thor: The Dark World,4.673097706666667,2013,tt1981115,"Action,Adventure,Fantasy",BV
+Dunkirk,3.5993709866666665,2017,tt5013056,"Action,Drama,History",WB
+Thor,3.2023816133333334,2011,tt0800369,"Action,Adventure,Fantasy",Par.
+Kung Fu Panda 2,4.533910733333333,2011,tt1302011,"Action,Adventure,Animation",P/DW
+Mad Max: Fury Road,2.4915624933333334,2015,tt1392190,"Action,Adventure,Sci-Fi",WB
+Ready Player One,3.77986872,2018,tt1677720,"Action,Adventure,Sci-Fi",WB
+The Last Airbender,2.00990712,2010,tt0938283,"Action,Adventure,Family",Par.
+Wrath of the Titans,1.59293444,2012,tt1646987,"Action,Adventure,Fantasy",WB
+Dark Shadows,1.1195321133333334,2012,tt1077368,"Comedy,Fantasy,Horror",WB
+White House Down,0.85696114,2013,tt2334879,"Action,Drama,Thriller",Sony
+The Wolfman,0.36549494666666665,2010,tt0780653,"Drama,Fantasy,Horror",Uni.
+The Great Wall,1.5309597133333332,2017,tt7535780,Documentary,Uni.
+Pan,0.24409528666666666,2015,tt3332064,"Adventure,Comedy,Family",WB
+Mars Needs Moms,-0.59371656,2011,tt1305591,"Adventure,Animation,Family",BV
+Madagascar 3: Europe's Most Wanted,5.643536227586207,2012,tt1277953,"Adventure,Animation,Comedy",P/DW
+How to Train Your Dragon 2,4.459235820689655,2014,tt1646971,"Action,Adventure,Animation",Fox
+Mr. Peabody & Sherman,1.6297438620689655,2014,tt0864835,"Adventure,Animation,Comedy",Fox
+Rise of the Guardians,1.8297493793103448,2012,tt1446192,"Action,Adventure,Animation",P/DW
+Captain America: The First Avenger,2.908744864285714,2011,tt0458339,"Action,Adventure,Sci-Fi",Par.
+Kung Fu Panda 3,3.72234115,2016,tt2267968,"Action,Adventure,Animation",Fox
+G.I. Joe: Retaliation,2.5590268928571427,2013,tt1583421,"Action,Adventure,Sci-Fi",Par.
+Exodus: Gods and Kings,1.3809216142857144,2014,tt1528100,"Action,Adventure,Drama",Fox
+The BFG,0.8223603571428572,2016,tt3691740,"Adventure,Family,Fantasy",BV
+Gods of Egypt,0.21421585714285715,2016,tt2404233,"Action,Adventure,Fantasy",LG/S
+The Croods,4.631384074074074,2013,tt0481499,"Action,Adventure,Animation",Fox
+The Revenant,4.307971822222222,2015,tt1663202,"Action,Adventure,Biography",Fox
+Rango,1.734831162962963,2011,tt1192628,"Adventure,Animation,Comedy",Par.
+Turbo,1.7401830222222223,2013,tt1860353,"Adventure,Animation,Comedy",Fox
+Teenage Mutant Ninja Turtles: Out of the Shadows,1.425036851851852,2016,tt3949660,"Action,Adventure,Comedy",Par.
+Happy Feet Two,0.6441698666666666,2011,tt1402488,"Adventure,Animation,Comedy",WB
+The Nutcracker and the Four Realms,0.6941516177577126,2018,tt5523010,"Adventure,Family,Fantasy",BV
+Penguins of Madagascar,2.4113139545454545,2014,tt1911658,"Adventure,Animation,Comedy",Fox
+The Hunger Games: Catching Fire,8.919508415384616,2013,tt1951264,"Action,Adventure,Sci-Fi",LGF
+Ant-Man and the Wasp,5.45994923076923,2018,tt5095030,"Action,Adventure,Comedy",BV
+Ant-Man,4.377389323076923,2015,tt0478970,"Action,Adventure,Comedy",BV
+Mary Poppins Returns,2.9498996615384616,2018,tt5028340,"Comedy,Family,Fantasy",BV
+Puss in Boots,4.4172921615384615,2011,tt0448694,"Action,Adventure,Animation",P/DW
+Megamind,2.617715853846154,2010,tt1001526,"Action,Animation,Comedy",P/DW
+Rio 2,3.802959430769231,2014,tt2357291,"Adventure,Animation,Comedy",Fox
+Salt,2.145860476923077,2010,tt0944835,"Action,Mystery,Thriller",Sony
+Noah,2.4925469923076924,2014,tt1959490,"Action,Adventure,Drama",Par.
+The Adventures of Tintin,2.473736784615385,2011,tt0983193,"Action,Adventure,Animation",Par.
+After Earth,1.4001674,2013,tt1815862,"Action,Adventure,Drama",Sony
+R.I.P.D.,-0.13311128461538463,2013,tt0790736,"Action,Adventure,Comedy",Uni.
+Night at the Museum: Secret of the Tomb,2.6811278897637796,2014,tt2692250,"Adventure,Comedy,Family",Fox
+The Hunger Games: Mockingjay - Part 1,7.829688128,2014,tt1951265,"Action,Adventure,Sci-Fi",LGF
+Fast Five,5.721558232,2011,tt1596343,"Action,Crime,Thriller",Uni.
+Sherlock Holmes: A Game of Shadows,4.780094888,2011,tt1515091,"Action,Adventure,Crime",WB
+The Boss Baby,4.48705436,2017,tt3874544,"Adventure,Animation,Comedy",Fox
+Trolls,2.982857584,2016,tt1679335,"Adventure,Animation,Comedy",Fox
+Prometheus,3.231402792,2012,tt1446714,"Adventure,Mystery,Sci-Fi",Fox
+The Bourne Legacy,2.14847832,2012,tt1194173,"Action,Adventure,Thriller",Uni.
+Skyscraper,1.980285232,2018,tt5758778,"Action,Adventure,Thriller",Uni.
+Jason Bourne,3.8196769666666666,2016,tt4196776,"Action,Thriller",Uni.
+Life of Pi,5.215825208333333,2012,tt0454876,"Adventure,Drama,Fantasy",Fox
+Elysium,2.1603517333333335,2013,tt1535108,"Action,Drama,Sci-Fi",TriS
+Oblivion,2.1418655666666666,2013,tt1483013,"Action,Adventure,Sci-Fi",Uni.
+Fantastic Four,0.8663894583333334,2015,tt1502712,"Action,Adventure,Drama",Fox
+The Wolverine,3.7740322086956524,2013,tt1430132,"Action,Adventure,Sci-Fi",Fox
+Gulliver's Travels,1.4535456160714286,2010,tt1320261,"Adventure,Comedy,Family",Fox
+Ferdinand,2.3716964864864867,2017,tt3411444,"Adventure,Animation,Comedy",Fox
+Deadpool 2,9.102475381818182,2018,tt5463162,"Action,Adventure,Comedy",Fox
+Gravity,7.798103436363636,2013,tt1454468,"Drama,Sci-Fi,Thriller",WB
+San Andreas,4.558630645454546,2015,tt2126355,"Action,Adventure,Drama",WB (NL)
+The Smurfs,5.421486190909091,2011,tt0472181,"Adventure,Animation,Comedy",Sony
+The Green Hornet,1.9812322272727272,2011,tt0990407,"Action,Comedy,Crime",Sony
+Real Steel,2.1758513636363634,2011,tt0433035,"Action,Drama,Family",BV
+The A-Team,1.3133024545454546,2010,tt0429493,"Action,Adventure,Thriller",Fox
+The Smurfs 2,2.8142300636363635,2013,tt2017020,"Adventure,Animation,Comedy",Sony
+Ender's Game,0.7247315818181819,2013,tt1731141,"Action,Adventure,Fantasy",LG/S
+The Martian,7.182454685185185,2015,tt3659388,"Adventure,Drama,Sci-Fi",Fox
+Allied,0.5034408018867924,2016,tt3640424,"Action,Drama,Romance",Par.
+Ice Age: Collision Course,3.4401875238095236,2016,tt3416828,"Adventure,Animation,Comedy",Fox
+Kingsman: The Golden Circle,3.8946012884615384,2017,tt4649466,"Action,Adventure,Comedy",Fox
+A Wrinkle in Time,1.2706843689320388,2018,tt1620680,"Adventure,Family,Fantasy",BV
+Bumblebee,4.807756647058824,2018,tt4701182,"Action,Adventure,Sci-Fi",Par.
+Cloud Atlas,0.5468767254901961,2012,tt1371111,"Action,Drama,Mystery",WB
+Django Unchained,5.12753757,2012,tt1853728,"Drama,Western",Wein.
+Little Fockers,3.59089174,2010,tt0970866,"Comedy,Romance",Uni.
+The Other Guys,1.90156448,2010,tt1386588,"Action,Comedy,Crime",Sony
+The Wolf of Wall Street,4.06771108,2013,tt0993846,"Biography,Crime,Drama",Par.
+Epic,2.70313123,2013,tt0848537,"Adventure,Animation,Family",Fox
+The Expendables 2,2.97007448,2012,tt1764651,"Action,Adventure,Thriller",LGF
+The Tourist,2.46362526,2010,tt1243957,"Action,Adventure,Thriller",Sony
+Legend of the Guardians: The Owls of Ga'Hoole,0.9539203,2010,tt1219342,"Action,Adventure,Animation",WB
+The Expendables 3,1.48783922,2014,tt2333784,"Action,Adventure,Thriller",LGF
+Green Zone,0.33020357,2010,tt0947810,"Action,Drama,Thriller",Uni.
+Geostorm,1.54496169,2017,tt1981128,"Action,Sci-Fi,Thriller",WB
+In the Heart of the Sea,0.14714067,2015,tt1390411,"Action,Adventure,Biography",WB
+Transcendence,0.26061567,2014,tt2209764,"Action,Drama,Sci-Fi",WB
+Mortal Engines,0.01238457,2018,tt1571234,"Action,Adventure,Fantasy",Uni.
+The Peanuts Movie,2.8411113232323233,2015,tt2452042,"Adventure,Animation,Comedy",Fox
+Alien: Covenant,2.2245698762886597,2017,tt2316204,"Horror,Sci-Fi,Thriller",Fox
+Ice Age: Continental Drift,9.958810315789474,2012,tt1667889,"Adventure,Animation,Comedy",Fox
+Sex and the City 2,3.1055628421052632,2010,tt1261945,"Comedy,Drama,Romance",WB (NL)
+The Campaign,1.0191104421052632,2012,tt1790886,Comedy,WB
+Unstoppable,1.6029880315789473,2010,tt0477080,"Action,Thriller",Fox
+Rise of the Planet of the Apes,5.965014892473119,2011,tt1318514,"Action,Drama,Sci-Fi",Fox
+A Good Day to Die Hard,3.039113,2013,tt1606378,"Action,Thriller",Fox
+The Secret Life of Walter Mitty,1.704373857142857,2013,tt0359950,"Adventure,Comedy,Drama",Fox
+Jumanji: Welcome to the Jungle,14.211167877777777,2017,tt2283362,"Action,Adventure,Comedy",Sony
+Rio,6.012662422222222,2011,tt1436562,"Adventure,Animation,Comedy",Fox
+Alvin and the Chipmunks: The Road Chip,2.7267215888888887,2015,tt2974918,"Adventure,Animation,Comedy",Fox
+Pixels,2.5867532222222223,2015,tt2120120,"Action,Comedy,Sci-Fi",Sony
+Percy Jackson: Sea of Monsters,1.9935456444444444,2013,tt1854564,"Adventure,Family,Fantasy",Fox
+Now You See Me 2,3.371117188888889,2016,tt3110958,"Action,Adventure,Comedy",LG/S
+Tomb Raider,2.6858700444444445,2018,tt1365519,"Action,Adventure,Fantasy",WB
+The Nutcracker in 3D,-0.7704280555555556,2010,tt1041804,"Action,Family,Fantasy",Free
+Divergent,4.023092470588235,2014,tt1840309,"Action,Adventure,Mystery",LG/S
+Hotel Transylvania,5.197868941176471,2012,tt0837562,"Animation,Comedy,Family",Sony
+Safe House,2.9379269647058823,2012,tt1599348,"Action,Adventure,Crime",Uni.
+Tower Heist,1.6878766588235294,2011,tt0471042,"Action,Comedy,Crime",Uni.
+Mirror Mirror,1.8064546941176471,2012,tt1667353,"Adventure,Comedy,Drama",Rela.
+Arthur Christmas,1.3079952117647058,2011,tt1430607,"Adventure,Animation,Comedy",Sony
+Cats & Dogs: The Revenge of Kitty Galore,0.8424957176470588,2010,tt1287468,"Action,Comedy,Family",WB
+The Greatest Showman,5.678639571428572,2017,tt1485796,"Biography,Drama,Musical",Fox
+The Expendables,3.528496317073171,2010,tt1320253,"Action,Adventure,Thriller",LGF
+The Hunger Games,12.5741758875,2012,tt1392170,"Action,Adventure,Sci-Fi",LGF
+The Hangover Part II,9.511607625,2011,tt1411697,"Comedy,Mystery",WB
+Hotel Transylvania 2,6.9900051,2015,tt2510894,"Animation,Comedy,Family",Sony
+Grown Ups 2,3.7586541625,2013,tt2191701,Comedy,Sony
+Alvin and the Chipmunks: Chipwrecked,5.0274489,2011,tt1615918,"Adventure,Animation,Comedy",Fox
+Shutter Island,4.34343395,2010,tt1130884,"Mystery,Thriller",Par.
+Yogi Bear,2.8127587625,2010,tt1302067,"Adventure,Animation,Comedy",WB
+The Book of Eli,2.16982345,2010,tt1037705,"Action,Adventure,Drama",WB
+Smallfoot,2.71164225,2018,tt6182908,"Adventure,Animation,Comedy",WB
+Zookeeper,2.1395798875,2011,tt1222817,"Comedy,Family,Romance",Sony
+The Last Witch Hunter,0.97733215,2015,tt1618442,"Action,Adventure,Fantasy",LG/S
+Pompeii,0.645475825,2014,tt1921064,"Action,Adventure,Drama",TriS
+Journey 2: The Mysterious Island,4.3418538227848105,2012,tt1397514,"Action,Adventure,Comedy",WB (NL)
+Jack and Jill,1.8440173924050633,2011,tt0810913,Comedy,Sony
+Cloudy with a Chance of Meatballs 2,4.053669435897436,2013,tt1985966,"Adventure,Animation,Comedy",Sony
+The Equalizer 2,2.799188233766234,2018,tt3766354,"Action,Crime,Thriller",Sony
+Despicable Me 2,16.67476605263158,2013,tt1690953,"Adventure,Animation,Comedy",Uni.
+The Secret Life of Pets,15.73513152,2016,tt2709768,"Adventure,Animation,Comedy",Uni.
+Sing,11.063784453333334,2016,tt3470600,"Animation,Comedy,Family",Uni.
+Despicable Me 3,16.324694,2017,tt3469046,"Adventure,Animation,Comedy",Uni.
+Grown Ups,4.789661546666666,2010,tt1375670,Comedy,Sony
+Now You See Me,5.139909186666666,2013,tt1670345,"Crime,Mystery,Thriller",LG/S
+Immortals,2.93421936,2011,tt1253864,"Action,Drama,Fantasy",Rela.
+Killers,0.9017694933333333,2010,tt1103153,"Action,Comedy,Romance",LGF
+Sucker Punch,0.68201188,2011,tt0978764,"Action,Adventure,Fantasy",WB
+Inferno,2.384839213333333,2016,tt3062096,"Action,Adventure,Crime",Sony
+Minions,19.221377608108106,2015,tt2293640,"Adventure,Animation,Comedy",Uni.
+The SpongeBob Movie: Sponge Out of Water,5.405502878378378,2015,tt2279373,"Adventure,Animation,Comedy",Par.
+Olympus Has Fallen,2.8829502857142857,2013,tt2302755,"Action,Thriller",FD
+War Horse,2.381412685714286,2011,tt1568911,"Drama,History,War",BV
+The Monuments Men,2.3819195428571427,2014,tt2177771,"Comedy,Drama,History",Sony
+Storks,2.6576101285714286,2016,tt4624424,"Adventure,Animation,Comedy",WB
+Dracula Untold,2.9461943285714285,2014,tt0829150,"Action,Drama,Fantasy",Uni.
+The Dilemma,0.7003165,2011,tt1578275,"Comedy,Drama",Uni.
+Rock of Ages,0.4221506428571429,2012,tt1336608,"Comedy,Drama,Musical",WB (NL)
+The Finest Hours,0.0974617,2016,tt2025690,"Action,Drama,History",BV
+Escape Plan,0.8410275714285714,2013,tt1211956,"Action,Crime,Mystery",LG/S
+Killer Elite,0.2933433142857143,2011,tt1448755,"Action,Crime,Thriller",ORF
+The Legend of Hercules,0.1114551,2014,tt1043726,"Action,Adventure,Fantasy",LG/S
+Blackhat,-0.6047002285714286,2015,tt2717822,"Action,Crime,Thriller",Uni.
+Despicable Me,10.521428376811594,2010,tt1323594,"Animation,Comedy,Family",Uni.
+Dinner for Schmucks,1.3162730289855074,2010,tt0427152,Comedy,P/DW
+Red Sparrow,1.7945850144927535,2018,tt2873282,"Action,Drama,Thriller",Fox
+The Twilight Saga: Eclipse,13.803449691176471,2010,tt1325004,"Adventure,Drama,Fantasy",Sum.
+Ted 2,3.3925077647058823,2015,tt2637276,Comedy,Uni.
+Hall Pass,0.9446207205882353,2011,tt0480687,"Comedy,Romance",WB (NL)
+Downsizing,0.16048125,2017,tt1389072,"Drama,Sci-Fi",Par.
+Abraham Lincoln: Vampire Hunter,1.592723985185185,2012,tt1611224,"Action,Fantasy,Horror",Fox
+Need for Speed,2.602092818181818,2014,tt2369135,"Action,Crime,Thriller",BV
+Lincoln,6.008526984615385,2012,tt0443272,"Biography,Drama,History",BV
+Hotel Transylvania 3: Summer Vacation,9.685846984615385,2018,tt5220122,"Adventure,Animation,Comedy",Sony
+Unbroken,3.2948572153846154,2014,tt1809398,"Biography,Drama,Sport",Uni.
+Due Date,3.8042782461538462,2010,tt1231583,"Adventure,Comedy",WB
+The Dictator,2.6892172153846152,2012,tt1645170,Comedy,Par.
+This Means War,2.257466892307692,2012,tt1596350,"Action,Comedy,Romance",Fox
+Resident Evil: Retribution,3.353740923076923,2012,tt1855325,"Action,Horror,Sci-Fi",SGem
+"I, Frankenstein",0.4407781538461538,2014,tt1418377,"Action,Fantasy,Horror",LGF
+Hop,3.71020473015873,2011,tt1411704,"Adventure,Animation,Comedy",Uni.
+American Assassin,0.6596795873015873,2017,tt1961175,"Action,Thriller",LGF
+The Hateful Eight,2.257779064516129,2015,tt3460252,"Crime,Drama,Mystery",Wein.
+Gone Girl,7.792366852459017,2014,tt2267998,"Drama,Mystery,Thriller",Fox
+Maze Runner: The Scorch Trials,5.4305467868852455,2015,tt4046784,"Action,Sci-Fi,Thriller",Fox
+2 Guns,2.4115651639344264,2013,tt1272878,"Action,Comedy,Crime",Uni.
+Maze Runner: The Death Cure,4.310016049180327,2018,tt4500922,"Action,Sci-Fi,Thriller",Fox
+Sully,5.059909816666667,2016,tt3263904,"Biography,Drama",WB
+Eat Pray Love,3.7862133166666667,2010,tt0879870,"Drama,Romance",Sony
+Jack Reacher,3.9573578666666664,2012,tt0790724,"Action,Crime,Thriller",Par.
+Contagion,2.55349485,2011,tt1598778,"Action,Drama,Thriller",WB
+London Has Fallen,3.29530575,2016,tt3300542,"Action,Thriller",Focus
+Jack Reacher: Never Go Back,2.644059416666667,2016,tt3393786,"Action,Thriller",Par.
+Baywatch,2.8987328166666666,2017,tt1469304,"Action,Comedy,Crime",Par.
+Joy,1.6264215166666667,2015,tt2446980,Drama,Fox
+ParaNorman,1.73537855,2012,tt1623288,"Adventure,Animation,Comedy",Focus
+The Boxtrolls,1.7130592666666666,2014,tt0787474,"Adventure,Animation,Comedy",Focus
+The Dark Tower,1.7360475333333334,2017,tt1648190,"Action,Adventure,Fantasy",Sony
+Jack Ryan: Shadow Recruit,2.0325804,2014,tt1205537,"Action,Drama,Thriller",Par.
+Vice,0.97865755,2018,tt6266538,"Biography,Comedy,Drama",Annapurna
+Gangster Squad,1.5016967666666667,2013,tt1321870,"Action,Crime,Drama",WB
+Smurfs: The Lost Village,3.0433144666666667,2017,tt2398241,"Adventure,Animation,Comedy",Sony
+First Man,1.5023395,2018,tt1213641,"Biography,Drama,History",Uni.
+Edge of Darkness,1.1021057666666667,2010,tt1226273,"Crime,Drama,Mystery",WB
+Trouble with the Curve,0.3930341666666667,2012,tt2083383,"Drama,Sport",WB
+The Mortal Instruments: City of Bones,0.7855164666666666,2013,tt1538403,"Action,Fantasy,Horror",SGem
+Priest,0.8881775333333334,2011,tt0822847,"Action,Adventure,Fantasy",SGem
+Mortdecai,-0.36512886666666666,2015,tt3045616,"Action,Comedy,Crime",LGF
+Sherlock Gnomes,1.2164495254237289,2018,tt2296777,"Adventure,Animation,Comedy",Par.
+Deadpool,19.070625896551725,2016,tt1431045,"Action,Adventure,Comedy",Fox
+American Sniper,14.473323172413792,2014,tt2179136,"Action,Biography,Drama",WB
+Goosebumps,3.1202548620689656,2015,tt1051904,"Adventure,Comedy,Family",Sony
+Red Tails,0.7283081896551724,2012,tt0485985,"Action,Adventure,Drama",Fox
+The Internship,1.385267724137931,2013,tt2234155,Comedy,Fox
+Resident Evil: Afterlife,5.19135227826087,2010,tt1220634,"Action,Adventure,Horror",SGem
+That's My Boy,0.6524578086956522,2012,tt1232200,Comedy,Sony
+Into the Woods,5.069729056939502,2014,tt2180411,"Adventure,Comedy,Drama",BV
+Bohemian Rhapsody,19.205248745454547,2018,tt1727824,"Biography,Drama,Music",Fox
+Fifty Shades Darker,8.0151364,2017,tt4465564,"Drama,Romance",Uni.
+Captain Phillips,4.959720018181819,2013,tt1535109,"Biography,Drama,Thriller",Sony
+The Equalizer,4.353352036363637,2014,tt0455944,"Action,Crime,Thriller",Sony
+Fifty Shades Freed,7.577425072727273,2018,tt4477536,"Drama,Romance,Thriller",Uni.
+Date Night,3.563280672727273,2010,tt1279935,"Comedy,Crime,Romance",Fox
+Free Birds,2.020682763636364,2013,tt1621039,"Adventure,Animation,Comedy",Rela.
+Muppets Most Wanted,1.3725671636363637,2014,tt2281587,"Adventure,Comedy,Crime",BV
+Kubo and the Two Strings,1.283112909090909,2016,tt4302938,"Action,Adventure,Animation",Focus
+Burlesque,1.363515090909091,2010,tt1126591,"Drama,Music,Musical",SGem
+The Watch,0.8451462727272727,2012,tt1298649,"Action,Comedy,Horror",Fox
+Crimson Peak,0.9283122545454545,2015,tt2554274,"Drama,Fantasy,Horror",Uni.
+Black Mass,2.045538679245283,2015,tt1355683,"Biography,Crime,Drama",WB
+Zero Dark Thirty,3.387298114285714,2012,tt1790885,"Drama,Thriller",Sony
+Valentine's Day,5.308749653846154,2010,tt0817230,"Comedy,Romance",WB (NL)
+The Change-Up,1.1777016346153846,2011,tt1488555,"Comedy,Fantasy",Uni.
+Alpha,1.6563970980392158,2018,tt4244998,"Adventure,Drama,Family",Studio 8
+The Adjustment Bureau,2.7734456175298803,2011,tt1385826,"Romance,Sci-Fi,Thriller",Uni.
+Ted,14.49364734,2012,tt1637725,"Comedy,Fantasy",Uni.
+22 Jump Street,9.46106426,2014,tt2294449,"Action,Comedy,Crime",Sony
+Central Intelligence,5.89271352,2016,tt1489889,"Action,Comedy,Crime",WB (NL)
+Anchorman 2: The Legend Continues,4.99076922,2013,tt1229340,Comedy,Par.
+Super 8,6.69953848,2011,tt1650062,"Mystery,Sci-Fi,Thriller",Par.
+Creed II,5.58614822,2018,tt6343314,"Drama,Sport",MGM
+Peter Rabbit,8.2474114,2018,tt5117670,"Adventure,Animation,Comedy",Sony
+The Mule,4.49324166,2018,tt7959026,"Crime,Drama,Thriller",WB
+Non-Stop,5.2825043,2014,tt2024469,"Action,Mystery,Thriller",Uni.
+The Emoji Movie,5.0530365,2017,tt4877122,"Adventure,Animation,Comedy",Sony
+The Post,4.23304676,2017,tt6294822,"Biography,Drama,History",Fox
+We Bought a Zoo,2.88707246,2011,tt1389137,"Comedy,Drama,Family",Fox
+Moneyball,2.73812654,2011,tt1210166,"Biography,Drama,Sport",Sony
+American Reunion,4.87116092,2012,tt1605630,Comedy,Uni.
+American Made,2.73822424,2017,tt3532216,"Action,Biography,Comedy",Uni.
+The Judge,1.46477552,2014,tt1872194,"Crime,Drama",WB
+War Dogs,1.58538052,2016,tt2005151,"Comedy,Crime,Drama",WB
+The Nice Guys,0.9171702,2016,tt3799694,"Action,Comedy,Crime",WB
+Marmaduke,1.47081436,2010,tt1392197,"Comedy,Family",Fox
+Hereafter,1.82814422,2010,tt1212419,"Drama,Fantasy,Romance",WB
+Zoolander 2,0.68394772,2016,tt1608290,Comedy,Par.
+Run All Night,0.86846576,2015,tt2199571,"Action,Drama,Thriller",WB
+Your Highness,-0.04563834,2011,tt1240982,"Adventure,Comedy,Fantasy",Uni.
+Snowden,0.13936874,2016,tt3774114,"Biography,Drama,Thriller",ORF
+Dream House,0.25889012,2011,tt1462041,"Drama,Mystery,Thriller",Uni.
+Free State of Jones,-0.11905424,2016,tt1124037,"Action,Biography,Drama",STX
+Drive Angry,0.03527232,2011,tt1502404,"Action,Fantasy,Thriller",Sum.
+Early Man,0.07106868,2018,tt4701724,"Adventure,Animation,Comedy",LGF
+Child 44,-0.81542898,2015,tt1014763,"Crime,Drama,History",LG/S
+Chappie,1.7871698775510203,2015,tt1823672,"Action,Crime,Drama",Sony
+Anna Karenina,0.7106325306122449,2012,tt1781769,"Drama,Romance",Focus
+Instant Family,2.8979046875,2018,tt7401588,"Comedy,Drama",Par.
+Tooth Fairy,2.596513375,2010,tt0808510,"Comedy,Family,Fantasy",Fox
+The Infiltrator,-0.23884395789473684,2016,tt1355631,"Biography,Crime,Drama",BG
+Arrival,5.461149638297872,2016,tt2543164,"Drama,Mystery,Sci-Fi",Par.
+Jonah Hex,-0.5410678085106383,2010,tt1075747,"Action,Drama,Fantasy",WB
+Prisoners,2.7914044347826086,2013,tt1392214,"Crime,Drama,Mystery",WB
+Taken 2,10.503593133333334,2012,tt1397280,"Action,Thriller",Fox
+Pitch Perfect 3,5.4585320444444445,2017,tt4765284,"Comedy,Music",Uni.
+The Muppets,4.5466187555555555,2011,tt1204342,"Adventure,Comedy,Family",BV
+The Bounty Hunter,3.508223666666667,2010,tt1038919,"Action,Comedy,Romance",Sony
+Office Christmas Party,2.2464620666666666,2016,tt1711525,Comedy,Par.
+Blended,2.872921822222222,2014,tt1086772,"Comedy,Romance",WB
+All Eyez on Me,1.2177590444444444,2017,tt1666185,"Biography,Drama,Music",LG/S
+The Ghost Writer,0.8016453333333333,2010,tt1139328,"Drama,Mystery,Thriller",Sum.
+Dredd,0.21960711111111111,2012,tt1343727,"Action,Crime,Sci-Fi",LGF
+The Rum Diary,-0.22989895555555556,2011,tt0376136,"Comedy,Drama",FD
+Welcome to Marwen,-0.4747012888888889,2018,tt3289724,"Biography,Comedy,Drama",Uni.
+Johnny English Reborn,2.845491377777778,2011,tt1634122,"Action,Adventure,Comedy",Uni.
+Argo,7.161039550561798,2012,tt1024648,"Biography,Drama,Thriller",WB
+Charlie St. Cloud,0.8110078863636364,2010,tt1438254,"Drama,Fantasy,Romance",Uni.
+The Heat,8.053706069767442,2013,tt2404463,"Action,Comedy,Crime",Fox
+The Mechanic,1.4816209647058824,2011,tt0472399,"Action,Crime,Thriller",CBS
+21 Jump Street,7.1252403809523805,2012,tt1232829,"Action,Comedy,Crime",Sony
+Snatched,1.4691513095238096,2017,tt2334871,"Action,Adventure,Comedy",Fox
+Here Comes the Boom,1.8221327619047618,2012,tt1648179,"Action,Comedy,Sport",Sony
+Red Riding Hood,2.0795381904761903,2011,tt1486185,"Fantasy,Horror,Mystery",WB
+Man on a Ledge,0.6247961904761905,2012,tt1568338,"Action,Adventure,Crime",LG/S
+The Warrior's Way,-0.6623651190476191,2010,tt1032751,"Action,Fantasy,Western",Rela.
+The Big Year,-0.6368619024390244,2011,tt1053810,Comedy,Fox
+The Karate Kid,12.2091639,2010,tt1155076,"Action,Drama,Family",Sony
+Fifty Shades of Grey,17.429133275,2015,tt2322441,"Drama,Romance,Thriller",Uni.
+American Hustle,9.199902525,2013,tt1800241,"Crime,Drama",Sony
+Lucy,13.6020434,2014,tt2872732,"Action,Sci-Fi,Thriller",Uni.
+Lone Survivor,5.872505825,2013,tt1091191,"Action,Biography,Drama",Uni.
+The Social Network,7.047120725,2010,tt1285016,"Biography,Drama",Sony
+Ride Along 2,4.392250025,2016,tt2869728,"Action,Comedy,Crime",Uni.
+Get Hard,3.92307265,2015,tt2561572,"Comedy,Crime",WB
+The Accountant,4.9805532,2016,tt2140479,"Action,Crime,Drama",WB
+Dumb and Dumber To,5.06904005,2014,tt2096672,"Adventure,Comedy",Uni.
+The Intern,5.82200955,2015,tt2361509,"Comedy,Drama",WB
+Bridge of Spies,4.8703023,2015,tt3682448,"Drama,History,Thriller",BV
+Hacksaw Ridge,4.902857425,2016,tt2119532,"Biography,Drama,History",LGF
+Unknown,3.995237,2011,tt1401152,"Action,Mystery,Thriller",WB
+Get Him to the Greek,2.815235025,2010,tt1226229,"Adventure,Comedy,Music",Uni.
+The Lincoln Lawyer,2.62885715,2011,tt1189340,"Crime,Drama,Thriller",LGF
+Horrible Bosses 2,3.00976785,2014,tt2170439,"Comedy,Crime",WB
+Predators,3.480876925,2010,tt1424381,"Action,Adventure,Sci-Fi",Fox
+The Odd Life of Timothy Green,1.677565225,2012,tt1462769,"Comedy,Drama,Family",BV
+Jersey Boys,1.808243625,2014,tt1742044,"Biography,Drama,Music",WB
+Final Destination 5,3.9399702,2011,tt1622979,Horror,WB (NL)
+Widows,1.906718,2018,tt4218572,"Crime,Drama,Thriller",Fox
+Sex Tape,3.11532455,2014,tt1956620,"Comedy,Romance",Sony
+Scream 4,2.35426295,2011,tt1262416,"Horror,Mystery",W/Dim.
+Paul,2.464376275,2011,tt1092026,"Adventure,Comedy,Sci-Fi",Uni.
+The Guilt Trip,0.960722225,2012,tt1694020,"Comedy,Drama",Par.
+Colombiana,1.7240279,2011,tt1657507,"Action,Drama,Thriller",TriS
+The Commuter,2.458232225,2018,tt1590193,"Action,Mystery,Thriller",LGF
+Patriots Day,1.11810875,2016,tt4572514,"Action,Crime,Drama",LGF
+Morning Glory,1.27017005,2010,tt1126618,"Comedy,Drama,Romance",Par.
+Grudge Match,1.490363,2013,tt1661382,"Comedy,Drama,Sport",WB
+The Nut Job 2: Nutty by Nature,1.145222775,2017,tt3486626,"Adventure,Animation,Comedy",ORF
+The House,0.419423225,2017,tt4481514,"Comedy,Crime",WB (NL)
+Season of the Witch,1.8988457,2011,tt0479997,"Action,Adventure,Fantasy",Rela.
+Mechanic: Resurrection,2.273931075,2016,tt3522806,"Action,Adventure,Thriller",LG/S
+Big Miracle,0.1356495,2012,tt1430615,"Biography,Drama,Family",Uni.
+A Thousand Words,-0.018984675,2012,tt0763831,"Comedy,Drama",P/DW
+The Gunman,-0.2685256,2015,tt2515034,"Action,Crime,Drama",ORF
+Paranoia,-0.406764475,2013,tt1413495,"Drama,Thriller",Rela.
+The Hurricane Heist,-0.0730123,2018,tt5360952,"Action,Adventure,Crime",ENTMP
+Victor Frankenstein,-0.077513925,2015,tt1976009,"Drama,Horror,Sci-Fi",Fox
+Frankenweenie,1.9856045128205129,2012,tt1142977,"Animation,Comedy,Family",BV
+Captain Underpants: The First Epic Movie,4.276286157894737,2017,tt2091256,"Action,Animation,Comedy",Fox
+Paul Blart: Mall Cop 2,3.7037431578947366,2015,tt3450650,"Action,Comedy,Crime",Sony
+Why Him?,3.677603736842105,2016,tt4501244,Comedy,Fox
+Water for Elephants,3.6189324736842106,2011,tt1067583,"Drama,Romance",Fox
+Life as We Know It,3.1911188947368423,2010,tt1055292,"Comedy,Drama,Romance",WB
+Riddick,2.599707710526316,2013,tt1411250,"Action,Adventure,Sci-Fi",Uni.
+The 5th Wave,2.8486678947368422,2016,tt2304933,"Action,Adventure,Drama",Sony
+What to Expect When You're Expecting,2.4566725066666666,2012,tt1586265,"Comedy,Drama,Romance",LGF
+The Master,0.7838553333333333,2012,tt1560747,Drama,Wein.
+We're the Millers,10.302983648648649,2013,tt1723121,"Comedy,Crime",WB (NL)
+Creed,6.657707081081081,2015,tt3076658,"Drama,Sport",WB (NL)
+The Town,5.614949810810811,2010,tt0840361,"Crime,Drama,Thriller",WB
+Dolphin Tale,3.5501487297297296,2011,tt1564349,"Drama,Family",WB
+Game Night,4.042085135135135,2018,tt2704998,"Action,Comedy,Crime",WB (NL)
+Cop Out,1.7239294864864865,2010,tt1385867,"Action,Comedy,Crime",WB
+The Rite,2.5186924324324322,2011,tt1161864,"Drama,Horror,Mystery",WB (NL)
+Aloha,0.2551113783783784,2015,tt1243974,"Comedy,Drama,Romance",Sony
+Hot Tub Time Machine,2.2288224722222223,2010,tt1231587,"Comedy,Sci-Fi",MGM
+Dolphin Tale 2,1.7735851666666667,2014,tt2978462,"Drama,Family",WB
+Collateral Beauty,2.231253166666667,2016,tt4682786,"Drama,Romance",WB (NL)
+There Be Dragons,-0.8586021111111111,2011,tt1316616,"Biography,Drama,War",Gold.
+It,28.283991914285714,2017,tt1396484,"Horror,Thriller",WB (NL)
+True Grit,11.100569514285715,2010,tt1403865,"Adventure,Drama,Western",Par.
+Identity Thief,7.853385657142857,2013,tt2024432,"Adventure,Comedy,Crime",Uni.
+Horrible Bosses,8.427318857142858,2011,tt1499658,"Comedy,Crime",WB (NL)
+Trainwreck,6.181045628571429,2015,tt3152624,"Comedy,Drama,Romance",Uni.
+Saving Mr. Banks,4.664636742857143,2013,tt2140373,"Biography,Comedy,Drama",BV
+Secretariat,2.430736,2010,tt1028576,"Biography,Drama,Family",BV
+Friends with Benefits,4.782818428571429,2011,tt1632708,"Comedy,Romance",SGem
+Neighbors 2: Sorority Rising,3.6885243142857145,2016,tt4438848,Comedy,Uni.
+Sicario: Day of the Soldado,2.5986013142857143,2018,tt5052474,"Action,Crime,Drama",Sony
+Goosebumps 2: Haunted Halloween,2.9996799714285713,2018,tt5664636,"Adventure,Comedy,Family",Sony
+12 Strong,2.3410883142857144,2018,tt1413492,"Action,Drama,History",WB
+Something Borrowed,1.9751601428571428,2011,tt0491152,"Comedy,Drama,Romance",WB
+In Time,4.790225257142857,2011,tt1637688,"Action,Crime,Drama",Fox
+J. Edgar,2.4832017142857143,2011,tt1616195,"Biography,Crime,Drama",WB
+Mile 22,1.9258251142857143,2018,tt4560436,"Action,Adventure,Thriller",STX
+Hot Pursuit,1.2929060857142858,2015,tt2967224,"Action,Comedy,Crime",WB (NL)
+The Foreigner,4.005053342857143,2017,tt1615160,"Action,Thriller",STX
+Adrift,1.5526343428571427,2018,tt6306064,"Action,Adventure,Biography",STX
+Abduction,2.278157542857143,2011,tt1600195,"Action,Mystery,Thriller",LGF
+Alex Cross,0.7518620285714286,2012,tt1712170,"Action,Crime,Mystery",LG/S
+Whiskey Tango Foxtrot,0.3838308857142857,2016,tt3553442,"Biography,Comedy,Drama",Par.
+Hitman: Agent 47,1.9900072285714285,2015,tt2679042,"Action,Adventure,Crime",Fox
+Premium Rush,0.47624705714285714,2012,tt1547234,"Action,Crime,Thriller",Sony
+Broken City,0.5480345428571428,2013,tt1235522,"Crime,Drama,Thriller",Fox
+Furry Vengeance,0.6277326285714285,2010,tt0492389,"Comedy,Family",Sum.
+Parker,0.8902865428571428,2013,tt1904996,"Action,Crime,Thriller",FD
+The Tree of Life,1.1436426,2011,tt0478304,"Drama,Fantasy",FoxS
+Unfinished Business,-0.3304699428571429,2015,tt2358925,"Comedy,Drama",Fox
+The Walk,1.0472367714285715,2015,tt3488710,"Adventure,Biography,Drama",TriS
+Mandela: Long Walk to Freedom,0.09181391428571428,2013,tt2304771,"Biography,Drama,History",Wein.
+The Snowman,0.42562602857142856,2017,tt1758810,"Crime,Drama,Mystery",Uni.
+A Hologram for the King,-0.5411856,2016,tt2980210,"Comedy,Drama,Romance",RAtt.
+The Darkest Hour,1.421701408045977,2011,tt1093357,"Action,Adventure,Horror",Sum.
+Baby Driver,8.8802955,2017,tt3890160,"Action,Crime,Drama",TriS
+The Maze Runner,12.257285970588235,2014,tt1790864,"Action,Mystery,Sci-Fi",Fox
+The Longest Ride,1.9779130882352942,2015,tt2726560,"Drama,Romance",Fox
+The Darkest Minds,0.5016799705882353,2018,tt4073790,"Action,Adventure,Drama",Fox
+Mike and Dave Need Wedding Dates,2.6941749393939394,2016,tt2823054,"Adventure,Comedy,Romance",Fox
+Step Up Revolution,5.0796050606060605,2012,tt1800741,"Drama,Music,Romance",LG/S
+Bridesmaids,13.118268953846155,2011,tt1478338,"Comedy,Romance",Uni.
+The Big Wedding,1.1613944307692308,2013,tt1931435,"Comedy,Drama,Romance",LGF
+Wanderlust,0.27532581538461537,2012,tt1655460,"Comedy,Romance",Uni.
+Takers,3.010374625,2010,tt1135084,"Action,Crime,Thriller",SGem
+Source Code,5.0981476875,2011,tt0945513,"Action,Drama,Sci-Fi",Sum.
+I Feel Pretty,3.3859186875,2018,tt6791096,"Comedy,Romance",STX
+"Big Mommas: Like Father, Like Son",2.75774575,2011,tt1464174,"Action,Comedy,Crime",Fox
+The Incredible Burt Wonderstone,0.5603278125,2013,tt0790628,"Adventure,Comedy,Fantasy",WB (NL)
+Going the Distance,0.91900903125,2010,tt1322312,"Comedy,Romance",WB (NL)
+Repo Men,0.00428890625,2010,tt1053424,"Action,Crime,Sci-Fi",Uni.
+Flight,7.2042197741935485,2012,tt1907668,"Drama,Thriller",Par.
+The Grand Budapest Hotel,6.195396129032258,2014,tt2278388,"Adventure,Comedy,Crime",FoxS
+Vacation,4.199699612903226,2015,tt1524930,"Adventure,Comedy",WB (NL)
+Extraordinary Measures,-0.08678306451612904,2010,tt1244659,Drama,CBS
+Crazy Rich Asians,12.754421066666668,2018,tt3104988,"Comedy,Romance",WB
+The Vow,9.754406333333334,2012,tt1606389,"Drama,Romance",SGem
+Sisters,5.4358435,2015,tt1850457,Comedy,Uni.
+Looper,6.898420333333333,2012,tt1276104,"Action,Crime,Drama",TriS
+Warm Bodies,5.050075666666666,2013,tt1588173,"Comedy,Horror,Romance",LG/S
+The Nut Job,5.226050133333334,2014,tt1821658,"Adventure,Animation,Comedy",ORF
+Hope Springs,5.554043533333333,2012,tt1535438,"Comedy,Drama,Romance",Sony
+Midnight in Paris,6.310647866666667,2011,tt1605783,"Comedy,Fantasy,Romance",SPC
+Darkest Hour,5.908343066666666,2017,tt4555426,"Biography,Drama,History",Focus
+Life of the Party,2.9606607333333335,2018,tt5619332,Comedy,WB (NL)
+Letters to Juliet,3.5060330333333334,2010,tt0892318,"Adventure,Comedy,Drama",Sum.
+Southpaw,3.885946966666667,2015,tt1798684,"Drama,Sport",Wein.
+Atomic Blonde,3.9973116,2017,tt2406566,"Action,Mystery,Thriller",Focus
+Sicario,3.3761014,2015,tt3397884,"Action,Crime,Drama",LGF
+Den of Thieves,3.1693004333333334,2018,tt1259528,"Action,Crime,Drama",STX
+The Three Stooges,2.2796824333333334,2012,tt0383010,"Comedy,Family",Fox
+John Wick,2.9757612,2014,tt2911666,"Action,Crime,Thriller",LG/S
+The Age of Adaline,2.7204770666666667,2015,tt1655441,"Drama,Fantasy,Romance",LGF
+Hanna,2.5200937666666667,2011,tt0993842,"Action,Drama,Thriller",Focus
+The 15:17 to Paris,2.0790828666666665,2018,tt6802308,"Biography,Drama,Thriller",WB
+Larry Crowne,2.235246,2011,tt1583420,"Comedy,Drama,Romance",Uni.
+Entourage,1.6267314,2015,tt1674771,Comedy,WB
+The Five-Year Engagement,2.0108034666666668,2012,tt1195478,"Comedy,Romance",Uni.
+Winnie the Pooh,1.5612817666666667,2011,tt1449283,"Adventure,Animation,Comedy",BV
+White Boy Rick,0.6650938666666667,2018,tt4537896,"Crime,Drama",Studio 8
+Sanctum,3.4055469333333335,2011,tt0881320,"Adventure,Drama,Thriller",Uni.
+The Next Three Days,1.9468189,2010,tt1458175,"Action,Crime,Drama",LGF
+Proud Mary,0.4192725666666667,2018,tt6421110,"Action,Crime,Drama",SGem
+Runner Runner,1.6609775333333334,2013,tt2364841,"Crime,Thriller",Fox
+Baahubali 2: The Conclusion,8.416290266666667,2017,tt4849438,"Action,Drama",GrtIndia
+Steve Jobs,0.7781888333333333,2015,tt2080374,"Biography,Drama",Uni.
+The Last Stand,1.0127018666666667,2013,tt1549920,"Action,Thriller",LGF
+Dead Man Down,0.016508966666666666,2013,tt2101341,"Action,Crime,Drama",FD
+The Space Between Us,-0.1877767,2017,tt3922818,"Adventure,Drama,Romance",STX
+Kin,-0.4728361,2018,tt6017942,"Action,Drama,Sci-Fi",LGF
+Stronger,-0.5667373,2017,tt3881784,"Biography,Drama",RAtt.
+Stronger,-0.5667373,2017,tt5738152,Drama,RAtt.
+Machine Gun Preacher,-0.8579774,2011,tt1586752,"Action,Biography,Crime",Rela.
+Pitch Perfect 2,15.273162,2015,tt2848292,"Comedy,Music",Uni.
+The Boss,3.887233344827586,2016,tt2702724,Comedy,Uni.
+Logan Lucky,1.4842383793103449,2017,tt5439796,"Comedy,Crime,Drama",BST
+Florence Foster Jenkins,1.8753141034482759,2016,tt4136084,"Biography,Comedy,Drama",Par.
+Straight Outta Compton,11.9778845,2015,tt1398426,"Biography,Drama,History",Uni.
+Girls Trip,8.142673857142857,2017,tt3564472,"Comedy,Drama",Uni.
+A Bad Moms Christmas,6.13647175,2017,tt6359956,"Adventure,Comedy",STX
+Safe Haven,4.908931107142857,2013,tt1702439,"Drama,Romance,Thriller",Rela.
+The Big Short,6.265093642857143,2015,tt1596363,"Biography,Comedy,Drama",Par.
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",5.011908428571428,2014,tt1698641,"Comedy,Family",BV
+Last Vegas,5.315297642857143,2013,tt1204975,"Comedy,Drama",CBS
+Tag,3.705600392857143,2018,tt2854926,Comedy,WB (NL)
+Kick-Ass,4.200087035714286,2010,tt1250777,"Action,Comedy",LGF
+30 Minutes or Less,1.7864514285714286,2011,tt1622547,"Action,Comedy,Crime",Sony
+3 Days to Kill,1.4877821071428572,2014,tt2172934,"Action,Drama,Thriller",Rela.
+Kick-Ass 2,2.283067642857143,2013,tt1650554,"Action,Comedy,Crime",Uni.
+A Walk Among the Tombstones,2.147366857142857,2014,tt0365907,"Action,Crime,Drama",Uni.
+The Spy Next Door,1.537855857142857,2010,tt1273678,"Action,Comedy,Family",LGF
+Brick Mansions,2.35064475,2014,tt1430612,"Action,Crime",Rela.
+American Ultra,0.5976790357142857,2015,tt3316948,"Action,Comedy,Sci-Fi",LGF
+Pride and Prejudice and Zombies,-0.01622889285714286,2016,tt1374989,"Action,Comedy,Horror",SGem
+Joyful Noise,1.2578191636363636,2012,tt1710396,"Comedy,Drama,Music",WB
+Anonymous,-0.26258905454545456,2011,tt1521197,"Drama,Thriller",Sony
+Limitless,7.696828666666667,2011,tt1219289,"Mystery,Sci-Fi,Thriller",Rela.
+Money Monster,3.980672962962963,2016,tt2241351,"Crime,Drama,Thriller",TriS
+Lawless,2.5304222307692306,2012,tt1212450,"Crime,Drama",Wein.
+The Best of Me,1.6086781153846155,2014,tt1972779,"Drama,Romance",Rela.
+The Raven,0.7926951153846153,2012,tt1486192,"Crime,Mystery,Thriller",Rela.
+The Fifth Estate,-0.6381406153846154,2013,tt1837703,"Biography,Drama,Thriller",BV
+The Help,14.31302364,2011,tt1454029,Drama,BV
+Hidden Figures,15.05516012,2016,tt4846340,"Biography,Drama,History",Fox
+Ride Along,10.5174546,2014,tt1408253,"Action,Comedy,Crime",Uni.
+Dear John,7.88193404,2010,tt0989757,"Drama,Romance,War",SGem
+Parental Guidance,6.92398716,2012,tt1047540,"Comedy,Family",Fox
+No Strings Attached,7.79561192,2011,tt1411238,"Comedy,Romance",Par.
+Contraband,5.5973942,2012,tt1524137,"Action,Crime,Drama",Uni.
+The Lucky One,5.28363884,2012,tt1327194,"Drama,Romance",WB
+The Giver,3.46522316,2014,tt0435651,"Drama,Romance,Sci-Fi",Wein.
+The Night Before,2.81852284,2015,tt3530002,"Adventure,Comedy,Fantasy",Sony
+August: Osage County,2.5391048,2013,tt1322269,"Comedy,Drama",Wein.
+Million Dollar Arm,2.02663484,2014,tt1647668,"Biography,Drama,Sport",BV
+Peppermint,2.48877924,2018,tt6850820,"Action,Crime,Drama",STX
+The Gambler,1.89596092,2014,tt2039393,"Crime,Drama,Thriller",Par.
+Fist Fight,1.89893732,2017,tt3401882,Comedy,WB (NL)
+The Sitter,1.7716792,2011,tt1366344,Comedy,Fox
+Draft Day,1.34758868,2014,tt2223990,"Drama,Sport",LG/S
+Rings,3.42841204,2017,tt0498381,"Drama,Horror,Mystery",Par.
+The Losers,1.13821088,2010,tt0480255,"Action,Adventure,Crime",WB
+The Eagle,1.33934356,2011,tt1034389,"Action,Adventure,Drama",Focus
+Shark Night 3D,0.51017224,2011,tt1633356,"Horror,Thriller",Rela.
+Father Figures,0.5415874,2017,tt1966359,"Adventure,Comedy,Drama",WB
+The Counselor,2.51932196,2013,tt2193215,"Crime,Drama,Thriller",Fox
+Mary Queen of Scots,1.52812928,2018,tt2328900,"Biography,Drama,History",Focus
+My Soul to Take,0.2588762,2010,tt0872230,"Horror,Mystery,Thriller",Uni.
+Warrior,0.5149,2011,tt1291584,"Drama,Sport",LGF
+Battle of the Sexes,0.2433562,2017,tt4622512,"Biography,Comedy,Drama",FoxS
+The 33,0.62513748,2015,tt2006295,"Biography,Drama,History",WB
+Tulip Fever,-0.63006388,2017,tt0491203,"Drama,History,Romance",Wein.
+Legend,0.77193776,2015,tt3381068,Horror,Uni.
+Legend,0.77193776,2015,tt3569230,"Biography,Crime,Drama",Uni.
+Think Like a Man Too,4.6273591666666665,2014,tt2239832,"Comedy,Romance",SGem
+Fences,4.0819077083333335,2016,tt2671706,Drama,Par.
+Piranha 3D,3.527638125,2010,tt0464154,"Comedy,Horror",W/Dim.
+Faster,1.459706875,2010,tt1433108,"Action,Crime,Drama",CBS
+I Don't Know How She Does It,0.4222307083333333,2011,tt1742650,"Comedy,Romance",Wein.
+Green Book,16.700635217391305,2018,tt6966692,"Biography,Comedy,Drama",Uni.
+The Wedding Ringer,5.288339434782609,2015,tt0884732,Comedy,SGem
+The Ides of March,4.1608025652173914,2011,tt1124035,"Drama,Thriller",Sony
+The Hate U Give,1.8168325217391303,2018,tt5580266,"Crime,Drama",Fox
+Nocturnal Animals,0.9138683555555556,2016,tt4550098,"Drama,Thriller",Focus
+Son of God,4.938629863636364,2014,tt3210686,"Biography,Drama,History",Fox
+The Hundred-Foot Journey,5.7502695,2014,tt2980648,"Comedy,Drama",BV
+Diary of a Wimpy Kid: Dog Days,4.738107136363636,2012,tt2023453,"Comedy,Family",Fox
+Delivery Man,3.599849409090909,2013,tt2387559,"Comedy,Drama",BV
+"Hail, Caesar!",3.2836775,2016,tt0475290,"Comedy,Drama,Music",Uni.
+Diary of a Wimpy Kid: The Long Haul,1.561286409090909,2017,tt6003368,"Comedy,Family",Fox
+Homefront,2.2660842727272725,2013,tt2312718,"Action,Thriller",ORF
+The Transporter Refueled,2.8967347727272728,2015,tt2938956,"Action,Adventure,Crime",EC
+"Roman J. Israel, Esq.",0.13316927272727272,2017,tt6000478,"Crime,Drama,Thriller",Sony
+Out of the Furnace,0.2166010909090909,2013,tt1206543,"Crime,Drama,Thriller",Rela.
+Just Getting Started,-0.41699922727272726,2017,tt5721088,"Action,Comedy",BG
+Stone,-0.7329500909090909,2010,tt1423995,"Drama,Thriller",Over.
+To Rome with Love,3.2330403255813955,2012,tt1859650,"Comedy,Music,Romance",SPC
+Silver Linings Playbook,16.547876714285714,2012,tt1045658,"Comedy,Drama,Romance",Wein.
+Blockers,6.350324904761905,2018,tt2531344,Comedy,Uni.
+For Colored Girls,2.6070271904761904,2010,tt1405500,Drama,LGF
+The Beaver,-0.7134831428571429,2011,tt1321860,Drama,Sum.
+La La Land,27.8726483,2016,tt3783958,"Comedy,Drama,Music",LG/S
+The Conjuring,21.7700141,2013,tt1457767,"Horror,Mystery,Thriller",WB (NL)
+Wonder,20.85137605,2017,tt2543472,"Drama,Family",LGF
+Bad Moms,13.71280065,2016,tt4651520,Comedy,STX
+Tammy,8.04665435,2014,tt2103254,"Comedy,Romance",WB (NL)
+The Descendants,11.90663805,2011,tt1033575,"Comedy,Drama",FoxS
+The Last Song,6.7814666,2010,tt1294226,"Drama,Music,Romance",BV
+12 Years a Slave,10.8848668,2013,tt2024544,"Biography,Drama,History",FoxS
+Me Before You,12.22551365,2016,tt2674426,"Drama,Romance",WB (NL)
+Barbershop: The Next Cut,4.42171265,2016,tt3628584,"Comedy,Drama",WB (NL)
+A Simple Favor,6.55886515,2018,tt7040874,"Comedy,Crime,Drama",LGF
+Spotlight,5.8572118,2015,tt1895587,"Crime,Drama",ORF
+The Star,4.18030025,2017,tt4587656,"Adventure,Animation,Comedy",Sony
+Nerve,4.4617955,2016,tt3531824,"Action,Adventure,Crime",LGF
+Risen,3.1567898,2016,tt3231054,"Action,Adventure,Drama",Sony
+Vampires Suck,4.9043246,2010,tt1666186,Comedy,Fox
+The American,4.17785495,2010,tt1440728,"Crime,Drama,Thriller",Focus
+A Very Harold & Kumar 3D Christmas,2.5663388,2011,tt1268799,"Adventure,Comedy",WB
+Texas Chainsaw 3D,3.1003979,2013,tt1572315,"Horror,Thriller",LGF
+She's Out of My League,3.03459185,2010,tt0815236,"Comedy,Romance",Par.
+The World's End,2.6756678,2013,tt1213663,"Action,Comedy,Sci-Fi",Focus
+You Again,1.9270499,2010,tt1414382,"Comedy,Family,Romance",BV
+On the Basis of Sex,2.1348032,2018,tt4669788,"Biography,Drama",Focus
+Monte Carlo,2.1436769,2011,tt1067774,"Adventure,Comedy,Family",Fox
+Rough Night,2.4475,2017,tt4799050,"Comedy,Crime,Thriller",Sony
+Lockout,1.4134957,2012,tt1592525,"Action,Sci-Fi,Thriller",FD
+What's Your Number?,1.20874345,2011,tt0770703,"Comedy,Romance",Fox
+Burnt,1.5212728,2015,tt2503944,"Comedy,Drama",Wein.
+Triple 9,0.92915445,2016,tt1712261,"Crime,Thriller",ORF
+The Light Between Oceans,0.74138555,2016,tt2547584,"Drama,Romance",BV
+Let Me In,1.0202667,2010,tt1228987,"Drama,Fantasy,Horror",Over.
+Battle of the Year,0.2805866,2013,tt1532958,"Drama,Music",SGem
+Inherent Vice,0.14416605,2014,tt1791528,"Comedy,Crime,Drama",WB
+Machete Kills,0.3140585,2013,tt2002718,"Action,Crime,Sci-Fi",ORF
+Little Boy,0.212763,2015,tt1810683,"Drama,History,War",ORF
+Chasing Mavericks,-0.28482115,2012,tt1629757,"Biography,Drama,Sport",Fox
+A Most Violent Year,-0.27019955,2014,tt2937898,"Crime,Drama,Thriller",A24
+A Dangerous Method,0.0254807,2011,tt1571222,"Biography,Drama,Romance",SPC
+Hands of Stone,-0.51276165,2016,tt1781827,"Action,Biography,Drama",Wein.
+The Cold Light of Day,0.45623945,2012,tt1366365,"Action,Thriller",LG/S
+Suspiria,-0.52409565,2018,tt1034415,"Fantasy,Horror,Mystery",Amazon
+All Good Things,-0.92721795,2010,tt1175709,"Crime,Drama,Mystery",Magn.
+By the Sea,-0.7866897,2015,tt3707106,"Drama,Romance",Uni.
+The Tempest,-0.9722057,2010,tt1274300,"Comedy,Drama,Fantasy",Mira.
+The Shape of Water,12.31539635897436,2017,tt5580390,"Adventure,Drama,Fantasy",FoxS
+The Devil's Double,-0.616379162303665,2011,tt1270262,"Biography,Drama,Thriller",LGF
+Bad Teacher,15.617992263157895,2011,tt1284575,"Comedy,Romance",Sony
+Sausage Party,11.579716473684211,2016,tt1700841,"Adventure,Animation,Comedy",Sony
+The Crazies,4.029953842105263,2010,tt0455407,"Horror,Thriller",Over.
+The Switch,3.0851015789473686,2010,tt0889573,"Comedy,Drama,Romance",Mira.
+Leap Year,2.080938947368421,2010,tt1216492,"Comedy,Romance",Uni.
+The Book Thief,4.135536421052632,2013,tt0816442,"Drama,War",Fox
+Take Me Home Tonight,-0.2365962105263158,2011,tt0810922,"Comedy,Drama,Romance",Rela.
+Won't Back Down,-0.4181022631578947,2012,tt1870529,Drama,Fox
+Neighbors,22.390623777777776,2014,tt2004420,Comedy,Uni.
+My Big Fat Greek Wedding 2,7.432564611111111,2016,tt3760922,"Comedy,Romance",Uni.
+The Perfect Guy,5.516977833333334,2015,tt3862750,"Crime,Drama,Horror",SGem
+Diary of a Wimpy Kid: Rodrick Rules,6.021873833333333,2011,tt1650043,"Comedy,Family",Fox
+Soul Surfer,4.0562264444444445,2011,tt1596346,"Biography,Drama,Family",TriS
+Uncle Drew,3.944283722222222,2018,tt7334528,"Comedy,Sport",LG/S
+Blue Jasmine,6.5732128888888885,2013,tt2334873,Drama,SPC
+Ricki and the Flash,2.7780850555555556,2015,tt3623726,"Comedy,Drama,Music",TriS
+Love the Coopers,2.8072345,2015,tt2279339,"Comedy,Fantasy,Romance",LGF
+127 Hours,3.364022277777778,2010,tt1542344,"Adventure,Biography,Drama",FoxS
+Norm of the North,1.6443421666666667,2016,tt1594972,"Adventure,Animation,Comedy",LGF
+Jobs,2.307440277777778,2013,tt2357129,"Biography,Drama",ORF
+And So It Goes,0.837823,2014,tt2465146,"Comedy,Drama,Romance",CE
+Midnight Special,-0.36708155555555555,2016,tt2649554,"Action,Drama,Mystery",WB
+Miss Sloane,-0.3766536111111111,2016,tt4540710,"Drama,Thriller",EC
+Metallica Through the Never,-0.30539594444444446,2013,tt2172935,Music,PH
+Wolves,-0.9947248333333333,2014,tt1403241,"Action,Fantasy,Horror",KE
+Black Nativity,-0.18266725714285714,2013,tt1425922,"Drama,Family,Music",FoxS
+A Quiet Place,29.738038529411764,2018,tt6644200,"Drama,Horror,Sci-Fi",Par.
+The Best Man Holiday,7.432994411764706,2013,tt2083355,"Comedy,Drama",Uni.
+Pitch Perfect,9.649731764705882,2012,tt1981677,"Comedy,Music,Romance",Uni.
+Saw 3D,9.555615411764705,2010,tt1477076,"Crime,Horror,Mystery",LGF
+"McFarland, USA",4.305188176470589,2015,tt2097298,"Biography,Drama,Sport",BV
+Almost Christmas,3.9740406470588234,2016,tt4649416,"Comedy,Drama",Uni.
+Beastly,2.8761059411764704,2011,tt1152398,"Drama,Fantasy,Romance",CBS
+The Apparition,-0.08387647058823529,2012,tt1433822,"Horror,Thriller",WB
+Genius,-0.4925689411764706,2016,tt1703957,"Biography,Drama",RAtt.
+The Young Messiah,-0.1795529761904762,2016,tt1002563,"Drama,Fantasy",Focus
+Moonrise Kingdom,6.147557,2012,tt1748122,"Adventure,Comedy,Drama",Focus
+The Artist,9.8077379375,2011,tt1655442,"Comedy,Drama,Romance",Wein.
+The Roommate,4.615363375,2011,tt1265990,"Drama,Thriller",SGem
+Superfly,1.578794875,2018,tt7690670,"Action,Crime,Thriller",Sony
+Remember Me,3.7233975,2010,tt1403981,"Drama,Romance",Sum.
+People Like Us,0.565579,2012,tt1716777,"Comedy,Drama",BV
+Bleed for This,-0.2695105,2016,tt1620935,"Biography,Drama,Sport",ORF
+The Homesman,-0.3345275,2014,tt2398231,"Drama,Western",Saban
+Trance,0.5572903125,2013,tt1924429,"Crime,Drama,Mystery",FoxS
+Second Act,5.533189872611465,2018,tt2126357,"Comedy,Drama,Romance",STX
+Annabelle: Creation,26.165137733333335,2017,tt5140878,"Horror,Mystery,Thriller",WB (NL)
+The Imitation Game,20.257707066666665,2014,tt2084970,"Biography,Drama,Thriller",Wein.
+Mama,13.648249733333333,2013,tt2023587,"Horror,Thriller",Uni.
+Diary of a Wimpy Kid,8.397195733333334,2010,tt1196141,"Comedy,Drama,Family",Fox
+The Woman in Black,11.2192792,2012,tt1596365,"Drama,Fantasy,Horror",CBS
+BlacKkKlansman,8.486178333333333,2018,tt7349662,"Biography,Crime,Drama",Focus
+Snitch,5.7225464,2013,tt0882977,"Action,Drama,Thriller",LG/S
+Krampus,5.9675912,2015,tt3850590,"Comedy,Fantasy,Horror",Uni.
+End of Watch,5.5726651333333335,2012,tt1855199,"Action,Crime,Drama",ORF
+The Theory of Everything,9.6147486,2014,tt2980516,"Biography,Drama,Romance",Focus
+The Favourite,7.5653808,2018,tt5083738,"Biography,Drama,History",FoxS
+When the Game Stands Tall,3.0177916666666667,2014,tt2247476,"Drama,Family,Sport",TriS
+Home Again,3.2904772,2017,tt5719700,"Comedy,Drama,Romance",ORF
+Ramona and Beezus,2.575774866666667,2010,tt0493949,"Adventure,Comedy,Family",Fox
+The November Man,2.9892302666666666,2014,tt2402157,"Action,Crime,Thriller",Rela.
+Keanu,1.7519996,2016,tt4139124,"Action,Comedy,Crime",WB (NL)
+Country Strong,1.7213938666666666,2010,tt1555064,"Drama,Music",SGem
+A Most Wanted Man,2.553783,2014,tt1972571,"Crime,Drama,Thriller",RAtt.
+The Man with the Iron Fists,1.5102052,2012,tt1258972,Action,Uni.
+Killing Them Softly,2.6122656,2012,tt1764234,"Crime,Thriller",Wein.
+One Day,3.8674975333333332,2011,tt1563738,"Drama,Romance",Focus
+Queen of Katwe,0.26199133333333335,2016,tt4341582,"Biography,Drama,Sport",BV
+Hotel Artemis,0.2977957333333333,2018,tt5834262,"Action,Drama,Sci-Fi",Global Road
+Scouts Guide to the Zombie Apocalypse,0.2838600666666667,2015,tt1727776,"Action,Comedy,Horror",Par.
+You Will Meet a Tall Dark Stranger,1.4997088,2010,tt1182350,"Comedy,Drama,Romance",SPC
+Never Let Me Go,-0.09277533333333333,2010,tt1334260,"Drama,Romance,Sci-Fi",FoxS
+The Disappointments Room,-0.6048514666666667,2016,tt2364897,"Drama,Horror,Thriller",Rela.
+Centurion,-0.4660921333333333,2010,tt1020558,"Action,Adventure,Drama",Magn.
+The Son of No One,-0.9213828,2011,tt1535612,"Action,Crime,Drama",Anch.
+Khumba,0.39321473333333334,2013,tt1487931,"Adventure,Animation,Family",MNE
+Magic Mike XXL,12.080941655172413,2015,tt2268016,"Comedy,Drama,Music",WB
+The Possession,8.43254657142857,2012,tt0431021,"Horror,Mystery,Thriller",LGF
+Our Family Wedding,1.9761305,2010,tt1305583,"Comedy,Romance",FoxS
+Hot Tub Time Machine 2,0.7958067857142858,2015,tt2637294,"Comedy,Mystery,Sci-Fi",Par.
+Fun Size,0.4697252142857143,2012,tt1663143,"Adventure,Comedy",Par.
+Suffragette,1.7676663571428572,2015,tt3077214,"Biography,Drama,History",Focus
+Mr. Turner,1.0818265714285715,2014,tt2473794,"Biography,Drama,History",SPC
+Flipped,-0.5681996428571429,2010,tt0817177,"Comedy,Drama,Romance",WB
+Margaret,-0.9521087857142857,2011,tt0466893,Drama,FoxS
+Seven Psychopaths,2.559984074074074,2012,tt1931533,"Comedy,Crime",CBS
+Black Swan,32.70933753846154,2010,tt0947798,"Drama,Thriller",FoxS
+Justin Bieber: Never Say Never,12.23446423076923,2011,tt1702443,"Documentary,Music",Par.
+The First Purge,14.854311538461538,2018,tt6133466,"Action,Horror,Sci-Fi",Uni.
+Miracles from Heaven,9.42337376923077,2016,tt4257926,"Biography,Drama,Family",TriS
+The Shallows,12.375774230769231,2016,tt4052882,"Drama,Horror,Thriller",Sony
+St. Vincent,6.613457384615384,2014,tt2170593,"Comedy,Drama",Wein.
+Earth to Echo,5.239183615384615,2014,tt2183034,"Adventure,Family,Sci-Fi",Rela.
+Admission,1.8262294615384616,2013,tt1814621,"Comedy,Drama,Romance",Focus
+The Perks of Being a Wallflower,2.9086346923076922,2012,tt1659337,Drama,LG/S
+Room,2.9184966923076923,2015,tt3170832,"Drama,Thriller",A24
+Woodlawn,1.2152153846153846,2015,tt4183692,"Drama,Sport",PFR
+Bajrangi Bhaijaan,8.996642153846153,2015,tt3863552,"Action,Comedy,Drama",Eros
+Youth,1.0542206923076922,2015,tt3312830,"Comedy,Drama,Music",FoxS
+The Vatican Tapes,0.2856882307692308,2015,tt1524575,"Horror,Thriller",LGF
+Attack the Block,-0.42435707692307695,2011,tt1478964,"Action,Comedy,Sci-Fi",SGem
+The Killer Inside Me,-0.7050343076923077,2010,tt0954947,"Crime,Drama,Horror",IFC
+The Call,8.50733234375,2013,tt1911644,"Crime,Drama,Horror",TriS
+The Drop,1.3634065873015873,2014,tt1600196,"Crime,Drama",FoxS
+Machete,4.83716928,2010,tt0985694,"Action,Crime,Thriller",Fox
+Conviction,0.48997408,2010,tt1244754,"Biography,Crime,Drama",FoxS
+Casino Jack,-0.6550356,2010,tt1194417,"Biography,Comedy,Crime",ATO
+The Paperboy,-0.62361096,2012,tt1496422,"Crime,Drama,Mystery",MNE
+Think Like a Man,16.076747416666667,2012,tt1621045,"Comedy,Romance",SGem
+Act of Valor,11.709156833333333,2012,tt1591479,"Action,Adventure,Drama",Rela.
+Project X,12.146671083333333,2012,tt1636826,Comedy,WB
+"Three Billboards Outside Ebbing, Missouri",16.892137916666666,2017,tt5027774,"Crime,Drama",FoxS
+Lion,15.77585125,2016,tt3741834,"Biography,Drama",Wein.
+Philomena,10.389447583333334,2013,tt2431286,"Biography,Comedy,Drama",Wein.
+Paper Towns,8.787565666666667,2015,tt3622592,"Comedy,Drama,Mystery",Fox
+Hell or High Water,4.382679,2016,tt2582782,"Action,Crime,Drama",LGF
+Katy Perry: Part of Me,3.8355425,2012,tt2215719,"Documentary,Music",Par.
+Top Five,3.2765933333333335,2014,tt2784678,"Comedy,Romance",Par.
+Project Almanac,3.6048065,2015,tt2436386,"Drama,Mystery,Sci-Fi",Par.
+Just Wright,2.6173356666666665,2010,tt1407061,"Comedy,Romance,Sport",FoxS
+Nebraska,2.534689333333333,2013,tt1821549,"Adventure,Comedy,Drama",Par.
+Young Adult,2.2551605833333332,2011,tt1625346,"Comedy,Drama",Par.
+About Time,7.719424916666667,2013,tt2194499,"Comedy,Drama,Fantasy",Uni.
+If Beale Street Could Talk,1.8979116666666667,2018,tt7125860,"Drama,Romance",Annapurna
+Wish Upon,2.1482375,2017,tt5322012,"Drama,Fantasy,Horror",BG
+Arbitrage,2.64585725,2012,tt1764183,"Drama,Thriller",RAtt.
+Stoker,0.1448365,2013,tt1682180,"Drama,Thriller",FoxS
+Darling Companion,-0.8338585,2012,tt1730687,"Comedy,Drama,Romance",SPC
+5 Days of War,-0.9912273333333333,2011,tt1486193,"Action,Drama,War",Anch.
+Carol,3.7080518644067797,2015,tt2402927,"Drama,Romance",Wein.
+Dirty Grandpa,11.232309739130434,2016,tt1860213,Comedy,LGF
+The Fighter,19.261763363636362,2010,tt0964517,"Biography,Drama,Sport",Par.
+If I Stay,10.711910272727273,2014,tt1355630,"Drama,Fantasy,Music",WB (NL)
+Brooklyn,8.127171272727272,2015,tt2381111,"Drama,Romance",FoxS
+Woman in Gold,7.354018181818182,2015,tt2404425,"Biography,Drama,History",Wein.
+"I, Tonya",6.619267545454545,2017,tt5580036,"Biography,Comedy,Drama",Neon
+Inside Llewyn Davis,3.1992232727272727,2013,tt2042568,"Drama,Music",CBS
+Sultan,6.144505636363636,2016,tt4832640,"Action,Drama,Sport",Yash
+Housefull,0.9712829702970297,2010,tt1573072,Comedy,Eros
+The Purge: Election Year,18.7557167,2016,tt4094724,"Action,Horror,Sci-Fi",Uni.
+Book Club,14.9679979,2018,tt6857166,"Comedy,Drama,Romance",Par.
+Insidious: The Last Key,22.5630918,2018,tt5726086,"Horror,Mystery,Thriller",Uni.
+Lady Bird,11.7569042,2017,tt4925292,"Comedy,Drama",A24
+Hereditary,10.4203361,2018,tt7784604,"Drama,Horror,Mystery",A24
+"Love, Simon",9.6346974,2018,tt5164432,"Comedy,Drama,Romance",Fox
+Jigsaw,13.0498028,2017,tt3348730,"Crime,Horror,Mystery",LGF
+"Everything, Everything",8.5724276,2017,tt5001718,"Drama,Romance",WB
+Devil,8.7033769,2010,tt1314655,"Horror,Mystery,Thriller",Uni.
+The Second Best Exotic Marigold Hotel,11.3462572,2015,tt2555736,"Comedy,Drama",FoxS
+Slender Man,7.2288469,2018,tt5690360,"Horror,Mystery,Thriller",SGem
+When the Bough Breaks,5.0516052,2016,tt1389139,"Crime,Drama,Horror",SGem
+Sinister 2,7.184518,2015,tt2752772,"Horror,Mystery,Thriller",Focus
+The Forest,5.7343491,2016,tt3387542,"Horror,Mystery,Thriller",Focus
+The Forest,5.7343491,2016,tt4982356,"Drama,Fantasy,Horror",Focus
+Skyline,7.9681328,2010,tt1564585,"Action,Sci-Fi,Thriller",Uni.
+The Disaster Artist,3.9838283,2017,tt3521126,"Biography,Comedy,Drama",A24
+Blair Witch,4.9762638,2016,tt1540011,"Horror,Mystery,Thriller",LGF
+Paranormal Activity: The Ghost Dimension,8.6256498,2015,tt2473510,"Horror,Mystery,Thriller",Par.
+My Week with Marilyn,3.8837977,2011,tt1655420,"Biography,Drama",Wein.
+Big Eyes,3.1799903,2014,tt1126590,"Biography,Crime,Drama",Wein.
+Movie 43,3.00052,2013,tt1333125,Comedy,Rela.
+Can You Ever Forgive Me?,1.0556252,2018,tt4595882,"Biography,Comedy,Crime",FoxS
+MacGruber,0.7155495,2010,tt1470023,"Action,Comedy,Romance",Uni.
+Seeking a Friend for the End of the World,0.8845697,2012,tt1307068,"Adventure,Comedy,Drama",Focus
+Shut In,0.8261,2016,tt2582500,"Drama,Mystery,Thriller",EC
+Cedar Rapids,0.4723233,2011,tt1477837,Comedy,FoxS
+The Collection,0.5700848,2012,tt1748227,"Action,Horror,Thriller",LD
+Danny Collins,0.4102911,2015,tt1772288,"Biography,Comedy,Drama",BST
+Gotti,0.0375467,2018,tt1801552,"Biography,Crime,Drama",VE
+Denial,0.3337388,2016,tt4645330,"Biography,Drama",BST
+Max Steel,-0.1618256,2016,tt1472584,"Action,Adventure,Family",ORF
+Rosewater,-0.3685342,2014,tt2752688,"Biography,Drama",ORF
+A Better Life,-0.6356497,2011,tt1554091,"Drama,Romance",Sum.
+Churchill,-0.1138123,2017,tt2674454,"Biography,Drama,History",Cohen
+Welcome to the Rileys,-0.9491224,2010,tt1183923,Drama,Gold.
+Strangerland,-0.9821431,2015,tt2325977,"Drama,Mystery,Thriller",Alc
+It's a Wonderful Afterlife,-0.8357061,2010,tt1319716,"Comedy,Drama,Fantasy",UTV
+Amour,3.487216288659794,2012,tt1602620,"Drama,Romance",SPC
+Dangal,31.32067147368421,2016,tt5074352,"Action,Biography,Drama",UTV
+The Runaways,-0.06817842105263158,2010,tt1017451,"Biography,Drama,Music",App.
+Melancholia,1.6434197872340426,2011,tt1527186,"Drama,Sci-Fi",Magn.
+Jab Tak Hai Jaan,-0.03758641304347826,2012,tt2176013,"Drama,Romance",Yash
+Kites,1.047876304347826,2010,tt1198101,"Action,Drama,Romance",Relbig.
+The Purge: Anarchy,19.344159,2014,tt2975578,"Action,Horror,Sci-Fi",Uni.
+Ouija: Origin of Evil,11.997374555555556,2016,tt4361050,"Drama,Horror,Mystery",Uni.
+The Edge of Seventeen,2.7252928888888888,2016,tt1878870,"Comedy,Drama",STX
+Jackie,4.616545111111111,2016,tt1619029,"Biography,Drama,History",FoxS
+Loving,1.2898108888888888,2016,tt4669986,"Biography,Drama,Romance",Focus
+Destroyer,-0.42062,2018,tt7137380,"Action,Crime,Drama",Annapurna
+Manchester by the Sea,13.75638094117647,2016,tt4034228,Drama,RAtt.
+Nightcrawler,8.731251294117648,2014,tt2872718,"Crime,Drama,Thriller",ORF
+Baggage Claim,4.230040588235294,2013,tt1171222,Comedy,FoxS
+Middle School: The Worst Years of My Life,4.096287294117647,2016,tt4981636,"Comedy,Family",LGF
+The Rover,-0.4953587058823529,2014,tt2345737,"Action,Crime,Drama",A24
+Yeh Jawaani Hai Deewani,5.58493156626506,2013,tt2178470,"Comedy,Drama,Musical",Eros
+Easy A,15.825273125,2010,tt1282140,"Comedy,Drama,Romance",SGem
+50/50,8.543856625,2011,tt1306980,"Comedy,Drama,Romance",Sum.
+A Walk in the Woods,7.327344,2015,tt1178665,"Adventure,Biography,Comedy",BG
+That Awkward Moment,8.89223875,2014,tt1800246,"Comedy,Romance",Focus
+Enough Said,4.396540125,2013,tt2390361,"Comedy,Drama,Romance",FoxS
+Prom,1.61167525,2011,tt1604171,"Comedy,Drama,Family",BV
+Me and Earl and the Dying Girl,1.0030745,2015,tt2582496,"Comedy,Drama,Romance",FoxS
+It's Kind of a Funny Story,0.62457225,2010,tt0804497,"Comedy,Drama,Romance",Focus
+Morgan,0.401754625,2016,tt4520364,"Action,Horror,Sci-Fi",Fox
+Anomalisa,0.18318175,2015,tt2401878,"Animation,Comedy,Drama",Par.
+Another Year,1.901414875,2010,tt1431181,"Comedy,Drama",SPC
+Made in Dagenham,1.092445625,2010,tt1371155,"Biography,Comedy,Drama",SPC
+Wild Target,-0.3220585,2010,tt1235189,"Action,Comedy,Crime",Free
+A Street Cat Named Bob,1.1831745,2016,tt3606888,"Biography,Comedy,Drama",Cleopatra
+The Neon Demon,-0.34760973333333334,2016,tt1974419,"Horror,Thriller",BG
+The Bye Bye Man,6.241017972972973,2017,tt4030600,"Drama,Fantasy,Horror",STX
+Magic Mike,39.610189142857145,2012,tt1915581,"Comedy,Drama",WB
+Jumping the Broom,9.779142142857143,2011,tt1640484,"Comedy,Drama",TriS
+Gifted,7.823695428571429,2017,tt4481414,Drama,FoxS
+Dope,4.099614428571429,2015,tt3850214,"Comedy,Crime,Drama",ORF
+Devil's Due,6.423935428571428,2014,tt2752758,"Horror,Mystery,Thriller",Fox
+Cyrus,1.5045474285714286,2010,tt1327709,"Crime,Horror,Mystery",FoxS
+Cyrus,1.5045474285714286,2010,tt1336617,"Comedy,Drama,Romance",FoxS
+Somewhere,1.6869665714285715,2010,tt1421051,"Comedy,Drama",Focus
+The Christmas Candle,-0.49059585714285714,2013,tt2739338,"Drama,Family",ELS
+Freeheld,-0.6745101428571428,2015,tt1658801,"Biography,Drama,Romance",LGF
+The Extra Man,-0.8649307142857143,2010,tt1361313,Comedy,Magn.
+Annabelle,51.48257430769231,2014,tt3322940,"Horror,Mystery,Thriller",WB (NL)
+Shame,2.7561744615384614,2011,tt1723811,Drama,FoxS
+The East,-0.1842146153846154,2013,tt1869716,"Adventure,Drama,Thriller",FoxS
+The Possession of Hannah Grace,8.6035935,2018,tt5734576,"Horror,Mystery,Thriller",SGem
+The Words,3.644091,2012,tt1840417,"Drama,Mystery,Romance",CBS
+The Guard,3.4262046666666666,2011,tt1540133,"Comedy,Crime,Thriller",SPC
+Wish I Was Here,0.6971106666666667,2014,tt2870708,"Comedy,Drama",Focus
+Veronica Mars,0.134585,2014,tt2771372,"Crime,Drama,Mystery",WB
+Snow Flower and the Secret Fan,1.1160683333333334,2011,tt1541995,"Drama,History",FoxS
+Mandy,-0.5596365,2018,tt6998518,"Action,Fantasy,Horror",RLJ
+Khiladi 786,1.690925892857143,2012,tt2166214,"Action,Comedy",Eros
+Don Jon,10.953869636363637,2013,tt2229499,"Comedy,Drama,Romance",Rela.
+Hell Fest,4.313938545454546,2018,tt1999890,Horror,LGF
+Le Havre,1.5621645454545454,2011,tt1508675,"Comedy,Drama",Jan.
+Dum Maaro Dum,1.345753076923077,2011,tt1618430,"Action,Crime,Drama",FoxS
+Get Out,85.2817232,2017,tt5052448,"Horror,Mystery,Thriller",Uni.
+Paranormal Activity 3,61.2137302,2011,tt1778304,"Horror,Mystery,Thriller",Par.
+10 Cloverfield Lane,35.0738842,2016,tt1179933,"Drama,Horror,Mystery",Par.
+Lights Out,42.215069,2016,tt4786282,"Drama,Horror,Mystery",WB (NL)
+The Visit,31.7767842,2015,tt3567288,"Horror,Mystery,Thriller",Uni.
+The Visit,31.7767842,2015,tt3833746,Documentary,Uni.
+Happy Death Day,35.138821,2017,tt5308322,"Horror,Mystery,Thriller",Uni.
+Paranormal Activity 4,38.3436654,2012,tt2109184,"Horror,Mystery,Thriller",Par.
+Ouija,29.8313284,2014,tt1204977,"Horror,Mystery,Thriller",Uni.
+The Big Sick,18.3690654,2017,tt5462602,"Comedy,Drama,Romance",LGF
+Paranormal Activity: The Marked Ones,23.6734452,2014,tt2473682,"Horror,Mystery,Thriller",Par.
+Dallas Buyers Club,16.582026,2013,tt0790636,"Biography,Drama",Focus
+No Escape,13.0266776,2015,tt1781922,"Action,Thriller",Wein.
+The Lazarus Effect,11.832176,2015,tt2918436,"Horror,Mystery,Sci-Fi",Rela.
+Our Idiot Brother,9.1352158,2011,tt1637706,"Comedy,Drama",Wein.
+Apollo 18,7.8409496,2011,tt1772240,"Horror,Mystery,Sci-Fi",W/Dim.
+"Paul, Apostle of Christ",7.6154994,2018,tt7388562,"Adventure,Biography,Drama",Affirm
+Addicted,5.9780024,2014,tt2205401,"Drama,Thriller",LGF
+Before I Fall,5.2373508,2017,tt1691916,"Drama,Fantasy,Mystery",ORF
+Fifty Shades of Black,5.760003,2016,tt4667094,Comedy,ORF
+The Perfect Match,2.9703142,2016,tt4871980,"Comedy,Romance",LGF
+Sea Rex 3D: Journey to a Prehistoric World,3.522357,2010,tt1529567,Documentary,3D
+Incarnate,1.834162,2016,tt3216348,"Horror,Thriller",BH Tilt
+Table 19,0.647059,2017,tt1412528,"Comedy,Drama,Romance",FoxS
+The Other Side of the Door,2.1810898,2016,tt3702652,Horror,Fox
+Kill the Messenger,0.8215102,2014,tt1216491,"Biography,Crime,Drama",Focus
+Rabbit Hole,0.6868184,2010,tt0935075,Drama,LGF
+Jem and the Holograms,-0.0892846,2015,tt3614530,"Adventure,Drama,Family",Uni.
+Paterson,1.5737918,2016,tt5247022,"Comedy,Drama,Romance",BST
+Ain't Them Bodies Saints,-0.706676,2013,tt2388637,"Crime,Drama,Romance",IFC
+Rudderless,-0.875356,2014,tt1798243,"Comedy,Drama,Music",Gold.
+Only God Forgives,0.098001875,2013,tt1602613,"Crime,Drama",RTWC
+Take Shelter,0.41073031578947367,2011,tt1675192,"Drama,Horror,Thriller",SPC
+Blackthorn,-0.6849188888888889,2011,tt1629705,"Action,Adventure,Western",Magn.
+Maggie,-0.7300284444444445,2015,tt1881002,"Drama,Horror",RAtt.
+Falcon Rising,-0.9947671111111112,2014,tt2295722,"Action,Adventure",Free
+Animal Kingdom,1.1720766666666667,2010,tt1313092,"Crime,Drama",SPC
+The Boy Next Door,21.35200075,2015,tt3181822,"Horror,Thriller",Uni.
+Boyhood,19.663256,2014,tt1065073,Drama,IFC
+The Kids Are All Right,13.2717085,2010,tt0842926,"Comedy,Drama,Romance",Focus
+A Haunted House 2,8.634087,2014,tt2828996,"Comedy,Fantasy",ORF
+The Last Exorcism Part II,9.1570025,2013,tt2034139,"Drama,Horror,Thriller",CBS
+The Darkness,4.41296675,2016,tt1878841,"Horror,Thriller",BH Tilt
+The Art of Getting By,-0.145181,2011,tt1645080,"Drama,Romance",FoxS
+Red State,-0.23774375,2011,tt0873886,"Action,Crime,Horror",SMod
+Holy Motors,0.21787,2012,tt2076220,"Drama,Fantasy",IM
+13 Sins,-0.9858285,2014,tt2059171,"Horror,Thriller",RTWC
+Another Happy Day,-0.75308825,2011,tt1719071,"Comedy,Drama",P4
+Four Lions,-0.2677018666666667,2010,tt1341167,"Comedy,Crime,Drama",Drft.
+Truth or Dare,38.01095971428571,2018,tt6772950,"Horror,Thriller",Uni.
+Truth or Dare,38.01095971428571,2018,tt6869948,"Comedy,Drama,Romance",Uni.
+Winchester,18.848530285714286,2018,tt1072748,"Biography,Drama,Fantasy",LGF
+Dark Skies,11.892222285714286,2013,tt2387433,"Horror,Sci-Fi,Thriller",W/Dim.
+American Honey,-0.06428657142857143,2016,tt3721936,"Adventure,Drama,Romance",A24
+Margin Call,6.584356764705882,2011,tt1615147,"Drama,Thriller",RAtt.
+Whiplash,14.776073636363636,2014,tt2582802,"Drama,Music",SPC
+Paranormal Activity 2,86.42164633333333,2010,tt1536044,Horror,Par.
+War Room,46.25511866666667,2015,tt3832914,Drama,TriS
+The Purge,50.913232,2013,tt2184339,"Horror,Thriller",Uni.
+Sinister,44.27157,2012,tt1922777,"Horror,Mystery,Thriller",LG/S
+Upgrade,8.510138333333334,2018,tt6499752,"Action,Sci-Fi,Thriller",BH Tilt
+Before Midnight,9.454183666666667,2013,tt2209418,"Drama,Romance",SPC
+Swiss Army Man,2.349188333333333,2016,tt4034354,"Adventure,Comedy,Drama",A24
+Please Give,1.8679173333333334,2010,tt0878835,"Comedy,Drama",SPC
+Compadres,2.5242723333333332,2016,tt3367294,"Action,Comedy,Crime",PNT
+Letters to God,1.0286796666666667,2010,tt1462054,"Drama,Family",Viv.
+Tusk,0.23651233333333332,2014,tt3099498,"Comedy,Drama,Horror",A24
+The Wall,1.099442,2017,tt4218696,"Action,Drama,Thriller",RAtt.
+The D Train,-0.5193153333333334,2015,tt2690138,"Comedy,Drama",IFC
+Bachelorette,3.3413903333333335,2012,tt1920849,"Comedy,Romance",RTWC
+Freakonomics,-0.90547,2010,tt1152822,Documentary,Magn.
+A Haunted House,38.9856964,2013,tt2243537,"Comedy,Fantasy",ORF
+Kevin Hart: Let Me Explain,24.8285224,2013,tt2609912,"Comedy,Documentary",LG/S
+The Spectacular Now,4.5079688,2013,tt1714206,"Comedy,Drama,Romance",A24
+Hunt for the Wilderpeople,10.6204016,2016,tt4698684,"Adventure,Comedy,Drama",Orch.
+Robot & Frank,2.3007296,2012,tt1990314,"Comedy,Crime,Drama",Gold.
+Do You Believe?,10.865448260869565,2015,tt4056738,Drama,PFR
+Courageous,33.8540525,2011,tt1630036,Drama,TriS
+Winter's Bone,10.331527,2010,tt1399683,"Drama,Mystery",RAtt.
+The Florida Project,7.599845,2017,tt5649144,Drama,A24
+All Saints,4.872101,2017,tt4663548,Drama,Affirm
+Inside Job,5.0555455,2010,tt1645089,"Crime,Documentary",SPC
+We Are Your Friends,5.872416,2015,tt3787590,"Drama,Music,Romance",WB
+The Diary of a Teenage Girl,0.8784805,2015,tt3172532,"Comedy,Drama,Romance",SPC
+The Babadook,3.2165895,2014,tt2321549,"Drama,Horror",IFC
+Knock Knock,2.182426,2015,tt3605418,"Drama,Thriller",LGP
+The First Time,-0.982939,2012,tt1763303,"Comedy,Drama,Romance",Gold.
+Buried,10.22654038688904,2010,tt1462758,"Drama,Mystery,Thriller",LGF
+ABCD (Any Body Can Dance),4.45228,2013,tt2321163,"Drama,Music",UTV
+The Last Exorcism,60.77791666666667,2010,tt1320244,"Drama,Horror,Thriller",LGF
+Beasts of the Southern Wild,19.033821111111113,2012,tt2125435,"Adventure,Drama,Fantasy",FoxS
+Higher Ground,-0.06458388888888889,2011,tt1562568,Drama,SPC
+I Spit on Your Grave,-0.21627314285714286,2010,tt1242432,"Horror,Thriller",Anch.
+Two Night Stand,-0.447699375,2014,tt2140619,"Comedy,Romance",EOne
+Unsane,13.623316666666666,2018,tt7153766,"Drama,Horror,Mystery",BST
+Mustang,3.5700342857142857,2015,tt3966404,Drama,Cohen
+Dear White People,6.84634,2014,tt2235108,"Comedy,Drama,Romance",RAtt.
+The Devil Inside,154.022435,2012,tt1560985,Horror,Par.
+Chernobyl Diaries,59.531361,2012,tt1991245,"Horror,Mystery,Thriller",WB
+Blue Valentine,25.304132,2010,tt1120985,"Drama,Romance",Wein.
+Unfriended: Dark Web,24.301333,2018,tt4761916,"Crime,Horror,Mystery",BH Tilt
+The Sessions,16.497655,2012,tt1866249,"Biography,Comedy,Drama",FoxS
+The Skeleton Twins,10.081501,2014,tt1571249,"Comedy,Drama,Romance",RAtt.
+Obvious Child,5.446686,2014,tt2910274,"Comedy,Drama,Romance",A24
+Martha Marcy May Marlene,7.419949,2011,tt1441326,"Drama,Mystery,Thriller",FoxS
+Patti Cake$,1.271238,2017,tt6288250,"Drama,Music",FoxS
+The Future,0.807836,2011,tt1235170,"Drama,Fantasy,Romance",RAtt.
+I Origins,0.188871,2014,tt2884206,"Drama,Romance,Sci-Fi",FoxS
+Camp X-Ray,-0.88911,2014,tt2994190,"Drama,War",IFC
+Fruitvale Station,36.38738111111111,2013,tt2334649,"Biography,Drama,Romance",Wein.
+Circumstance,0.57011,2011,tt1684628,Drama,RAtt.
+Safety Not Guaranteed,10.244366666666666,2012,tt1862079,"Comedy,Drama,Romance",FD
+Monsters,10.754062,2010,tt1470827,"Drama,Sci-Fi,Thriller",Magn.
+Compliance,3.2592037037037036,2012,tt1971352,"Biography,Crime,Drama",Magn.
+Like Crazy,27.495164,2011,tt1758692,"Drama,Romance",ParV
+The Canyons,-0.511816,2013,tt2292959,"Drama,Thriller",IFC
+Another Earth,18.56556,2011,tt1549572,"Drama,Romance,Sci-Fi",FoxS
+The Gallows,643.20884,2015,tt2309260,"Horror,Mystery,Thriller",WB (NL)
+A Ghost Story,42.6458,2017,tt6265828,"Drama,Fantasy,Romance",A24
+Tiny Furniture,15.31646,2010,tt1570989,"Comedy,Drama,Romance",IFC

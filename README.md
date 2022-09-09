@@ -19,12 +19,12 @@ The data we use contains information about different movies. These data frames c
 By performing some analysis we find that genres as shown in the next figure:
 
 
-![](./genres_to_pick.png)
+![](./Images/genres_to_pick.png)
 
 
 The histogram of these genres are shown below:
 
-![](./genres_histogram.png)
+![](./Images/genres_histogram.png)
 
 
 Since Horror and Mystry genres both almost have equal average return ratio, we will check which one has the higher average rating. Then we pick the one with the higher average rating. After performing some analysis, we pick Mystry as the main genre.
@@ -34,7 +34,7 @@ Since Horror and Mystry genres both almost have equal average return ratio, we w
 In the selected genre, we try to find a director whose movies have the highest average return ratio. The results are shown below
 
 
-![](./directors_to_pick.png)
+![](./Images/directors_to_pick.png)
 
 
 We see that Travis Cluff's movies have as equal average return ratio as the works of Chris Lofing. Now we check whose work gained the higher average rating. We see that both works have again equal average rating. Now we check the total number of votes to select based on. But, again there are equal number of votes. So we would suggest to work with either directors. 
@@ -43,19 +43,19 @@ We see that Travis Cluff's movies have as equal average return ratio as the work
 
 By performing analysis we see that WB (NL) has made movies in the selected genre with a higher average return ratio. So collaboration with this studio would be suggested. The result of the analysis is shown below. 
 
-![](./studios_to_pick.png)
+![](./Images/studios_to_pick.png)
 
 ## Selecting a Release Month
 
 We would recommend to consider July as the month of the release. The results of the analysis are shown below
 
 
-![](./months_to_pick.png)
+![](./Images/months_to_pick.png)
 
 
 The histogram of the distribution of data is shown below
 
-![](./months_histogram.png)
+![](./Images/months_histogram.png)
 
 
 # Conclusion and Suggestions:
@@ -81,3 +81,13 @@ The next steps we would recommend to consider for achieving their goals are:
 2. **Selecting Production Budget**. We recommend to select production budget to consider to make a movie by analyzing available data.
 
 
+
+# Repository Structure
+
+```
+├── Images: Images for README
+├── Notebooks: Modeling Notebooks
+├── PDFs: PDF files of the notebooks and Presentation
+├── Data : data used for modeling
+├── README.md : project information and repository structure
+```
